@@ -1,87 +1,4 @@
 TG_ID,ACCOUNT_NUM,NAME,ADDRESS,CITY,STATE,ZIP,REGION,TERR,DATE,UNITS,CALLS
-605415,1201208,Berkshire Medical Center,725 North St,Pittsfield,MA,1201,Unassigned Region,29999,5/31/2013,6,0
-605416,1230200,Fairview Hospital,29 Lewis Ave,Great Barrington,MA,1230,Unassigned Region,29999,5/31/2013,2,0
-605416,1230200,Fairview Hospital,29 Lewis Ave,Great Barrington,MA,1230,Unassigned Region,29999,10/31/2013,6,0
-605418,1301200,Baystate Franklin Medical Center,164 High St,Greenfield,MA,1301,Unassigned Region,29999,4/30/2013,2,0
-605418,1301200,Baystate Franklin Medical Center,164 High St,Greenfield,MA,1301,Unassigned Region,29999,5/31/2014,6,0
-605452,2115203,Boston Childrens Hospital,300 Longwood Ave,Boston,MA,2115,Unassigned Region,29999,11/30/2012,2,0
-605452,2115203,Boston Childrens Hospital,300 Longwood Ave,Boston,MA,2115,Unassigned Region,29999,8/31/2014,2,0
-605467,2186200,Milton Medical Center,92 Highland St,Milton,MA,2186,Unassigned Region,29999,8/31/2013,2,0
-605468,2190200,South Shore Hospital,55 Fogg Rd,South Weymouth,MA,2190,Unassigned Region,29999,9/30/2012,12,0
-605468,2190200,South Shore Hospital,55 Fogg Rd,South Weymouth,MA,2190,Unassigned Region,29999,7/31/2014,12,0
-605515,3867200,Frisbie Memorial Hospital,11 Whitehall Rd,Rochester,NH,3867,Unassigned Region,29999,7/31/2014,2,0
-605568,6069200,Sharon Hospital,50 Hospital Hill Rd,Sharon,CT,6069,Unassigned Region,29999,6/30/2013,4,0
-605568,6069200,Sharon Hospital,50 Hospital Hill Rd,Sharon,CT,6069,Unassigned Region,29999,3/31/2014,2,0
-605568,6069200,Sharon Hospital,50 Hospital Hill Rd,Sharon,CT,6069,Unassigned Region,29999,4/30/2014,4,0
-605573,6226200,Windham Hospital,112 Mansfield Ave,Willimantic,CT,6226,Unassigned Region,29999,5/31/2014,4,0
-605590,6776200,New Milford Hospital,21 Elm St,New Milford,CT,6776,Unassigned Region,29999,7/31/2013,6,0
-605592,6810200,Danbury Hospital,Dept Of Surgery,Danbury,CT,6810,Unassigned Region,29999,9/30/2013,12,0
-605615,7444200,Chilton Memorial Hospital,97 W Pkwy,Pompton Plains,NJ,7444,Unassigned Region,29999,8/31/2013,6,0
-605615,7444200,Chilton Memorial Hospital,97 W Pkwy,Pompton Plains,NJ,7444,Unassigned Region,29999,6/30/2014,4,0
-605617,7461200,St Clares Hospital Sussex Campus,20 Walnut St,Sussex,NJ,7461,Unassigned Region,29999,4/30/2014,2,0
-605630,7801200,St Clares Hospital Dover,400 W Blackwell St,Dover,NJ,7801,Unassigned Region,29999,2/29/2012,2,0
-605630,7801200,St Clares Hospital Dover,400 W Blackwell St,Dover,NJ,7801,Unassigned Region,29999,5/31/2014,6,0
-605632,7840200,Hackettstown Regional Medical Center,651 Willow Grove St,Hackettstown,NJ,7840,Unassigned Region,29999,9/30/2012,2,0
-605632,7840200,Hackettstown Regional Medical Center,651 Willow Grove St,Hackettstown,NJ,7840,Unassigned Region,29999,3/31/2013,2,0
-605632,7840200,Hackettstown Regional Medical Center,651 Willow Grove St,Hackettstown,NJ,7840,Unassigned Region,29999,6/30/2013,2,0
-605632,7840200,Hackettstown Regional Medical Center,651 Willow Grove St,Hackettstown,NJ,7840,Unassigned Region,29999,6/30/2014,2,0
-605633,7860200,Newton Memorial Hospital,175 High St,Newton,NJ,7860,Unassigned Region,29999,5/31/2012,6,0
-605633,7860200,Newton Memorial Hospital,175 High St,Newton,NJ,7860,Unassigned Region,29999,3/31/2014,4,0
-605633,7860200,Newton Memorial Hospital,175 High St,Newton,NJ,7860,Unassigned Region,29999,6/30/2014,4,0
-605637,8009200,Virtua West Jersey Hospital Berlin,100 Townsend Ave,Berlin,NJ,8009,Unassigned Region,29999,3/31/2013,4,0
-605643,8053200,Virtua West Jersey Hospital Marlton,90 Brick Rd,Marlton,NJ,8053,Unassigned Region,29999,9/30/2012,4,0
-605647,8096200,Inspira Medical Center Woodbury,509 N Broad St,Woodbury,NJ,8096,Unassigned Region,29999,10/31/2014,6,0
-605650,8210200,Cape Regional Medical Center,2 Stone Harbor Blvd,Cape May Court House,NJ,8210,Unassigned Region,29999,12/31/2013,2,0
-605650,8210200,Cape Regional Medical Center,2 Stone Harbor Blvd,Cape May Court House,NJ,8210,Unassigned Region,29999,2/28/2014,2,0
-605652,8244200,Shore Memorial Hospital,1 E New York Ave,Somers Point,NJ,8244,Unassigned Region,29999,3/31/2014,2,0
-605665,8822200,Hunterdon Medical Center,2100 Wescott Dr,Flemington,NJ,8822,Unassigned Region,29999,6/30/2012,10,0
-605665,8822200,Hunterdon Medical Center,2100 Wescott Dr,Flemington,NJ,8822,Unassigned Region,29999,10/31/2014,10,0
-605668,8865200,Warren Hospital,185 Roseberry St,Phillipsburg,NJ,8865,Unassigned Region,29999,8/31/2012,6,0
-605668,8865200,Warren Hospital,185 Roseberry St,Phillipsburg,NJ,8865,Unassigned Region,29999,7/31/2014,6,0
-605672,9138250,U S A Med Depot,09138 Apo,APO,AE,9138,Unassigned Region,29999,4/30/2012,4,0
-605672,9138250,U S A Med Depot,09138 Apo,APO,AE,9138,Unassigned Region,29999,3/31/2013,2,0
-605672,9138250,U S A Med Depot,09138 Apo,APO,AE,9138,Unassigned Region,29999,4/30/2014,2,0
-605702,10512200,Putnam Hospital Center,670 Stoneleigh Ave,Carmel,NY,10512,Unassigned Region,29999,2/28/2013,4,0
-605702,10512200,Putnam Hospital Center,670 Stoneleigh Ave,Carmel,NY,10512,Unassigned Region,29999,3/31/2014,2,0
-605706,10567200,Hudson Valley Hospital Center,1980 Crompond Rd R,Cortlandt Manor,NY,10567,Unassigned Region,29999,4/30/2012,12,0
-605706,10567200,Hudson Valley Hospital Center,1980 Crompond Rd R,Cortlandt Manor,NY,10567,Unassigned Region,29999,5/31/2012,16,0
-605706,10567200,Hudson Valley Hospital Center,1980 Crompond Rd R,Cortlandt Manor,NY,10567,Unassigned Region,29999,2/28/2014,6,0
-605706,10567200,Hudson Valley Hospital Center,1980 Crompond Rd R,Cortlandt Manor,NY,10567,Unassigned Region,29999,6/30/2014,12,0
-605718,10940200,Orange Regional Medical Center Horton Campus,60 Prospect Ave,Middletown,NY,10940,Unassigned Region,29999,12/31/2012,14,0
-605718,10940200,Orange Regional Medical Center Horton Campus,60 Prospect Ave,Middletown,NY,10940,Unassigned Region,29999,2/28/2013,16,0
-605719,10960200,Nyack Hospital,160 N Midland Ave,Nyack,NY,10960,Unassigned Region,29999,6/30/2013,8,0
-605720,10990200,St Anthony Community Hospital,15 Maple Ave 19,Warwick,NY,10990,Unassigned Region,29999,8/31/2012,4,0
-605720,10990200,St Anthony Community Hospital,15 Maple Ave 19,Warwick,NY,10990,Unassigned Region,29999,1/31/2014,2,0
-605720,10990200,St Anthony Community Hospital,15 Maple Ave 19,Warwick,NY,10990,Unassigned Region,29999,11/30/2014,2,0
-605721,10996200,Keller Army Comm Hospital,W Point Army Base W,West Point,NY,10996,Unassigned Region,29999,1/31/2014,2,0
-605721,10996200,Keller Army Comm Hospital,W Point Army Base W,West Point,NY,10996,Unassigned Region,29999,4/30/2014,20,0
-605736,11215200,New York Methodist Hospital,506 6th St Fl 2,Brooklyn,NY,11215,Unassigned Region,29999,11/30/2013,14,0
-605787,12401201,Health Alliance Hospital Broadway Campus,396 Broadway,Kingston,NY,12401,Unassigned Region,29999,8/31/2012,6,0
-605787,12401201,Health Alliance Hospital Broadway Campus,396 Broadway,Kingston,NY,12401,Unassigned Region,29999,5/31/2014,2,0
-605792,12518200,St Lukes Cornwall Hospital Cornwall Campus,19 Laurel Ave C,Cornwall,NY,12518,Unassigned Region,29999,12/31/2014,2,0
-605799,12742200,Katskill Regional Medical Center,PO Box 800,Harris,NY,12742,Unassigned Region,29999,12/31/2012,4,0
-605799,12742200,Katskill Regional Medical Center,PO Box 800,Harris,NY,12742,Unassigned Region,29999,3/31/2013,4,0
-605799,12742200,Katskill Regional Medical Center,PO Box 800,Harris,NY,12742,Unassigned Region,29999,6/30/2013,4,0
-605799,12742200,Katskill Regional Medical Center,PO Box 800,Harris,NY,12742,Unassigned Region,29999,5/31/2014,2,0
-605801,12771201,Bon Secours Community Hospital,160 E Main St,Port Jervis,NY,12771,Unassigned Region,29999,4/30/2014,8,0
-605801,12771201,Bon Secours Community Hospital,160 E Main St,Port Jervis,NY,12771,Unassigned Region,29999,5/31/2014,-4,0
-605801,12771201,Bon Secours Community Hospital,160 E Main St,Port Jervis,NY,12771,Unassigned Region,29999,6/30/2014,2,0
-605802,12801200,Glens Falls Hospital,100 Park St C Glns,Glens Falls,NY,12801,Unassigned Region,29999,5/31/2014,20,0
-605804,12883200,Moses-Ludington Hospital,Wicker St,Ticonderoga,NY,12883,Unassigned Region,29999,9/30/2012,2,0
-605823,13601202,Samaritan Medical Center,830 Washington St,Watertown,NY,13601,Unassigned Region,29999,7/31/2013,2,0
-605823,13601202,Samaritan Medical Center,830 Washington St,Watertown,NY,13601,Unassigned Region,29999,11/30/2013,2,0
-605831,13790200,United Health Services,33-57 Harrison St,Johnson City,NY,13790,Unassigned Region,29999,2/28/2014,6,0
-605853,14301200,Niagara Falls Memorial Medical Center,621 10th St,Niagara Falls,NY,14301,Unassigned Region,29999,8/31/2012,2,0
-605861,14569200,Wyoming County Community Hospital,400 N Main St,Warsaw,NY,14569,Unassigned Region,29999,3/31/2013,2,0
-605861,14569200,Wyoming County Community Hospital,400 N Main St,Warsaw,NY,14569,Unassigned Region,29999,10/31/2013,4,0
-605869,14810200,Ira Davenport Memorial Hospital,7571 State Route 54,Bath,NY,14810,Unassigned Region,29999,3/31/2013,4,0
-605869,14810200,Ira Davenport Memorial Hospital,7571 State Route 54,Bath,NY,14810,Unassigned Region,29999,4/30/2014,2,0
-605870,14810201,Va Medical Center Bath,76 Veterans Ave,Bath,NY,14810,Unassigned Region,29999,10/31/2012,12,0
-605871,14830200,Corning Hospital,176 Denison Pkwy E,Corning,NY,14830,Unassigned Region,29999,12/31/2012,8,0
-605872,14843201,St James Mercy Health,411 Canisteo St,Hornell,NY,14843,Unassigned Region,29999,12/31/2012,4,0
-605872,14843201,St James Mercy Health,411 Canisteo St,Hornell,NY,14843,Unassigned Region,29999,8/31/2013,4,0
-605876,14901201,Saint Josephs Hospital Inc,555 Saint Josephs Blvd,Elmira,NY,14901,Unassigned Region,29999,5/31/2012,2,0
-605876,14901201,Saint Josephs Hospital Inc,555 Saint Josephs Blvd,Elmira,NY,14901,Unassigned Region,29999,2/28/2013,2,0
 605880,15063200,Monongahela Valley Hosp,Rd Rt 88,Monongahela,PA,15063,East Region,20108,3/31/2012,16,0
 605880,15063200,Monongahela Valley Hosp,Rd Rt 88,Monongahela,PA,15063,East Region,20108,6/30/2012,0,4
 605880,15063200,Monongahela Valley Hosp,Rd Rt 88,Monongahela,PA,15063,East Region,20108,8/31/2012,0,2
@@ -687,13 +604,6 @@ TG_ID,ACCOUNT_NUM,NAME,ADDRESS,CITY,STATE,ZIP,REGION,TERR,DATE,UNITS,CALLS
 606139,23294200,Henrico Doctors Hospital Parham Campus,7700 E Parham Rd,Richmond,VA,23294,East Region,20101,8/31/2013,0,1
 606139,23294200,Henrico Doctors Hospital Parham Campus,7700 E Parham Rd,Richmond,VA,23294,East Region,20101,1/31/2014,0,1
 606139,23294200,Henrico Doctors Hospital Parham Campus,7700 E Parham Rd,Richmond,VA,23294,East Region,20101,2/28/2014,0,3
-606142,23413200,Shore Memorial Hospital,100 Medical Center Way,Somers Point,NJ,8244,Unassigned Region,29999,8/31/2012,16,0
-606142,23413200,Shore Memorial Hospital,100 Medical Center Way,Somers Point,NJ,8244,Unassigned Region,29999,9/30/2012,-4,0
-606142,23413200,Shore Memorial Hospital,100 Medical Center Way,Somers Point,NJ,8244,Unassigned Region,29999,7/31/2013,0,2
-606142,23413200,Shore Memorial Hospital,100 Medical Center Way,Somers Point,NJ,8244,Unassigned Region,29999,11/30/2013,0,1
-606142,23413200,Shore Memorial Hospital,100 Medical Center Way,Somers Point,NJ,8244,Unassigned Region,29999,4/30/2014,0,2
-606142,23413200,Shore Memorial Hospital,100 Medical Center Way,Somers Point,NJ,8244,Unassigned Region,29999,5/31/2014,0,2
-606142,23413200,Shore Memorial Hospital,100 Medical Center Way,Somers Point,NJ,8244,Unassigned Region,29999,12/31/2014,6,0
 606145,23435162,Sentara Family Physicians,3920 Bridge Rd,Suffolk,VA,23435,East Region,20101,9/30/2012,4,0
 606145,23435162,Sentara Family Physicians,3920 Bridge Rd,Suffolk,VA,23435,East Region,20101,4/30/2013,2,0
 606145,23435162,Sentara Family Physicians,3920 Bridge Rd,Suffolk,VA,23435,East Region,20101,5/31/2013,4,0
@@ -5313,156 +5223,6 @@ TG_ID,ACCOUNT_NUM,NAME,ADDRESS,CITY,STATE,ZIP,REGION,TERR,DATE,UNITS,CALLS
 607639,47750200,St Marys Medical Center Of Evansville,3700 Washington Ave,Evansville,IN,47714,West Region,20209,9/30/2014,4,0
 607643,47842200,Union Hospital Clinton,801 S Main St,Clinton,IN,47842,West Region,20209,4/30/2014,2,0
 607647,47933200,St Claire Medical Center,1710 Lafayette Rd,Crawfordsville,IN,47933,West Region,20209,7/31/2013,4,0
-607677,48201208,Detroit Rec Hospital,4201 Saint Antoine St,Detroit,MI,48201,Unassigned Region,29999,4/30/2013,20,0
-607677,48201208,Detroit Rec Hospital,4201 Saint Antoine St,Detroit,MI,48201,Unassigned Region,29999,9/30/2013,6,0
-607688,48342200,Mclaren Oakland,50 N Perry St,Pontiac,MI,48342,Unassigned Region,29999,5/31/2012,4,0
-607688,48342200,Mclaren Oakland,50 N Perry St,Pontiac,MI,48342,Unassigned Region,29999,11/30/2014,4,0
-607693,48439200,Genesys Regional Medical Center Health Park,1 Genesys Pkwy Rm G1428,Grand Blanc,MI,48439,Unassigned Region,29999,11/30/2013,8,0
-607710,48763200,Tawas St Joseph Hospital Inc,200 E M 55,Tawas City,MI,48763,Unassigned Region,29999,8/31/2012,6,0
-607721,49010200,Allegan General Hospital,555 Linn St,Allegan,MI,49010,Unassigned Region,29999,8/31/2012,2,0
-607726,49058200,Pennock Hospital,1009 W Green St,Hastings,MI,49058,Unassigned Region,29999,12/31/2012,2,0
-607726,49058200,Pennock Hospital,1009 W Green St,Hastings,MI,49058,Unassigned Region,29999,1/31/2013,-2,0
-607730,49090200,South Haven Community Hospital,955 S Bailey Ave,South Haven,MI,49090,Unassigned Region,29999,10/31/2013,4,0
-607733,49093200,Three Rivers Area Hospital,701 S Health Pkwy,Three Rivers,MI,49093,Unassigned Region,29999,7/31/2012,2,0
-607733,49093200,Three Rivers Area Hospital,701 S Health Pkwy,Three Rivers,MI,49093,Unassigned Region,29999,8/31/2012,2,0
-607733,49093200,Three Rivers Area Hospital,701 S Health Pkwy,Three Rivers,MI,49093,Unassigned Region,29999,6/30/2013,2,0
-607737,49221200,Promedica Bixby Hospital,818 Riverside Ave,Adrian,MI,49221,Unassigned Region,29999,6/30/2013,6,0
-607754,49660200,West Shore Medical Center,1465 E Parkdale Ave,Manistee,MI,49660,Unassigned Region,29999,11/30/2012,2,0
-607754,49660200,West Shore Medical Center,1465 E Parkdale Ave,Manistee,MI,49660,Unassigned Region,29999,3/31/2013,2,0
-607757,49707200,Alpena Regional Medical Center,1501 W Chisholm St,Alpena,MI,49707,Unassigned Region,29999,9/30/2012,12,0
-607757,49707200,Alpena Regional Medical Center,1501 W Chisholm St,Alpena,MI,49707,Unassigned Region,29999,10/31/2012,6,0
-607761,49738200,Mercy Hospital Grayling,1100 E Michigan Ave,Grayling,MI,49738,Unassigned Region,29999,8/31/2013,6,0
-607761,49738200,Mercy Hospital Grayling,1100 E Michigan Ave,Grayling,MI,49738,Unassigned Region,29999,6/30/2014,4,0
-607773,50010201,Mary Greeley Medical Center,1111 Duff Ave,Ames,IA,50010,Unassigned Region,29999,12/31/2014,6,0
-607774,50022200,Cass County Memorial Hospital,1501 E 10th St,Atlantic,IA,50022,Unassigned Region,29999,9/30/2012,2,0
-607804,51101200,Mercy Medical Center Sioux City,801 5th St,Sioux City,IA,51101,Unassigned Region,29999,10/31/2013,4,0
-607804,51101200,Mercy Medical Center Sioux City,801 5th St,Sioux City,IA,51101,Unassigned Region,29999,3/31/2014,8,0
-607805,51104201,St Lukes Regional Medical Center,2720 Stone Park Blvd,Sioux City,IA,51104,Unassigned Region,29999,10/31/2013,2,0
-607818,52001200,Finley Hospital,350 N Grandview Ave,Dubuque,IA,52001,Unassigned Region,29999,6/30/2013,4,0
-607818,52001200,Finley Hospital,350 N Grandview Ave,Dubuque,IA,52001,Unassigned Region,29999,5/31/2014,2,0
-607819,52001203,MERCY HLTH CNTR ST JOSEPH,250 Mercy Dr,Dubuque,IA,52001,Unassigned Region,29999,5/31/2013,6,0
-607819,52001203,MERCY HLTH CNTR ST JOSEPH,250 Mercy Dr,Dubuque,IA,52001,Unassigned Region,29999,7/31/2014,2,0
-607820,52060200,Jackson County Regional Health Center,700 W Grove St,Maquoketa,IA,52060,Unassigned Region,29999,3/31/2012,4,0
-607820,52060200,Jackson County Regional Health Center,700 W Grove St,Maquoketa,IA,52060,Unassigned Region,29999,9/30/2013,10,0
-607820,52060200,Jackson County Regional Health Center,700 W Grove St,Maquoketa,IA,52060,Unassigned Region,29999,3/31/2014,6,0
-607821,52101200,Winneshiek County Memorial Hospital,901 Montgomery St,Decorah,IA,52101,Unassigned Region,29999,5/31/2013,12,0
-607823,52175200,Palmer Lutheran Health Center,112 Jefferson St,West Union,IA,52175,Unassigned Region,29999,7/31/2012,2,0
-607823,52175200,Palmer Lutheran Health Center,112 Jefferson St,West Union,IA,52175,Unassigned Region,29999,9/30/2012,2,0
-607823,52175200,Palmer Lutheran Health Center,112 Jefferson St,West Union,IA,52175,Unassigned Region,29999,6/30/2014,2,0
-607830,52556200,Jefferson County Hospital,400 Highland St,Fairfield,IA,52556,Unassigned Region,29999,5/31/2014,2,0
-607834,52655201,Great River Medical Center,1221 S Gear Ave,West Burlington,IA,52655,Unassigned Region,29999,10/31/2012,2,0
-607838,52761200,Unitypoint Clinic Family Medicine Mulberry,1518 Mulberry Ave Ste 201,Muscatine,IA,52761,Unassigned Region,29999,7/31/2013,6,0
-607885,53821201,Prairie Du Chien Memorial Hospital,705 E Taylor St,Prairie Du Chien,WI,53821,Unassigned Region,29999,9/30/2013,4,0
-607886,53913200,Saint Clare Hospital And Health Services,707 14th St,Baraboo,WI,53913,Unassigned Region,29999,7/31/2012,6,0
-607886,53913200,Saint Clare Hospital And Health Services,707 14th St,Baraboo,WI,53913,Unassigned Region,29999,6/30/2014,4,0
-607890,53948200,Mile Bluff Med Ctr-Hess,1050 Division St 207,Mauston,WI,53948,Unassigned Region,29999,10/31/2013,6,0
-607924,54701202,Sacred Heart Hospital,900 W Clairemont Ave,Eau Claire,WI,54701,Unassigned Region,29999,12/31/2012,2,0
-607924,54701202,Sacred Heart Hospital,900 W Clairemont Ave,Eau Claire,WI,54701,Unassigned Region,29999,1/31/2013,2,0
-607924,54701202,Sacred Heart Hospital,900 W Clairemont Ave,Eau Claire,WI,54701,Unassigned Region,29999,3/31/2014,2,0
-607950,55066200,Fairview Red Wing Hospital,701 Hewitt Blvd,Red Wing,MN,55066,Unassigned Region,29999,3/31/2013,12,0
-607950,55066200,Fairview Red Wing Hospital,701 Hewitt Blvd,Red Wing,MN,55066,Unassigned Region,29999,9/30/2014,6,0
-607970,55422200,North Memorial Medical Center,3300 Oakdale Ave N,Minneapolis,MN,55422,Unassigned Region,29999,8/31/2012,8,0
-608039,57325200,Sanford Mid Dakota Medical Center,300 S Byron Blvd,Chamberlain,SD,57325,Unassigned Region,29999,7/31/2012,10,0
-608039,57325200,Sanford Mid Dakota Medical Center,300 S Byron Blvd,Chamberlain,SD,57325,Unassigned Region,29999,6/30/2013,4,0
-608039,57325200,Sanford Mid Dakota Medical Center,300 S Byron Blvd,Chamberlain,SD,57325,Unassigned Region,29999,9/30/2013,4,0
-608039,57325200,Sanford Mid Dakota Medical Center,300 S Byron Blvd,Chamberlain,SD,57325,Unassigned Region,29999,7/31/2014,14,0
-608039,57325200,Sanford Mid Dakota Medical Center,300 S Byron Blvd,Chamberlain,SD,57325,Unassigned Region,29999,8/31/2014,4,0
-608040,57369200,Platte Health Center,601 E 7th St,Platte,SD,57369,Unassigned Region,29999,7/31/2013,4,0
-608040,57369200,Platte Health Center,601 E 7th St,Platte,SD,57369,Unassigned Region,29999,9/30/2013,4,0
-608042,57380201,Wagner Community Memorial Hospital Avera,513 3rd St Sw,Wagner,SD,57380,Unassigned Region,29999,7/31/2012,6,0
-608042,57380201,Wagner Community Memorial Hospital Avera,513 3rd St Sw,Wagner,SD,57380,Unassigned Region,29999,8/31/2012,2,0
-608042,57380201,Wagner Community Memorial Hospital Avera,513 3rd St Sw,Wagner,SD,57380,Unassigned Region,29999,10/31/2012,2,0
-608042,57380201,Wagner Community Memorial Hospital Avera,513 3rd St Sw,Wagner,SD,57380,Unassigned Region,29999,8/31/2013,4,0
-608042,57380201,Wagner Community Memorial Hospital Avera,513 3rd St Sw,Wagner,SD,57380,Unassigned Region,29999,9/30/2013,-4,0
-608042,57380201,Wagner Community Memorial Hospital Avera,513 3rd St Sw,Wagner,SD,57380,Unassigned Region,29999,5/31/2014,6,0
-608043,57401201,Avera St Lukes,305 S State St,Aberdeen,SD,57401,Unassigned Region,29999,10/31/2014,6,0
-608046,57501200,St Marys Hospital,803 E Dakota Ave,Pierre,SD,57501,Unassigned Region,29999,6/30/2013,18,0
-608046,57501200,St Marys Hospital,803 E Dakota Ave,Pierre,SD,57501,Unassigned Region,29999,9/30/2013,14,0
-608046,57501200,St Marys Hospital,803 E Dakota Ave,Pierre,SD,57501,Unassigned Region,29999,7/31/2014,6,0
-608046,57501200,St Marys Hospital,803 E Dakota Ave,Pierre,SD,57501,Unassigned Region,29999,8/31/2014,16,0
-608047,57533201,Avera Gregory Healthcare Center,400 Park Ave,Gregory,SD,57533,Unassigned Region,29999,10/31/2012,4,0
-608048,57551200,Bennett County Healthcare Center,102 Major Allen St,Martin,SD,57551,Unassigned Region,29999,8/31/2012,8,0
-608048,57551200,Bennett County Healthcare Center,102 Major Allen St,Martin,SD,57551,Unassigned Region,29999,9/30/2012,6,0
-608048,57551200,Bennett County Healthcare Center,102 Major Allen St,Martin,SD,57551,Unassigned Region,29999,6/30/2013,6,0
-608048,57551200,Bennett County Healthcare Center,102 Major Allen St,Martin,SD,57551,Unassigned Region,29999,8/31/2013,6,0
-608049,57567200,Philip Health Services,503 W Pine St,Philip,SD,57567,Unassigned Region,29999,6/30/2013,2,0
-608049,57567200,Philip Health Services,503 W Pine St,Philip,SD,57567,Unassigned Region,29999,4/30/2014,10,0
-608050,57570201,Us Public Health Service Hospital,400 Soldier Creek Rd,Rosebud,SD,57570,Unassigned Region,29999,3/31/2012,6,0
-608050,57570201,Us Public Health Service Hospital,400 Soldier Creek Rd,Rosebud,SD,57570,Unassigned Region,29999,4/30/2012,6,0
-608050,57570201,Us Public Health Service Hospital,400 Soldier Creek Rd,Rosebud,SD,57570,Unassigned Region,29999,8/31/2012,6,0
-608051,57580200,Winner Regional Hospital,745 E 8th St,Winner,SD,57580,Unassigned Region,29999,7/31/2012,6,0
-608051,57580200,Winner Regional Hospital,745 E 8th St,Winner,SD,57580,Unassigned Region,29999,8/31/2012,4,0
-608051,57580200,Winner Regional Hospital,745 E 8th St,Winner,SD,57580,Unassigned Region,29999,5/31/2014,6,0
-608052,57601200,Mobridge Regional Hospital,1401 10th Ave W,Mobridge,SD,57601,Unassigned Region,29999,7/31/2013,14,0
-608054,57701205,Rapid City Regional Hospital,353 Fairmont Blvd,Rapid City,SD,57701,Unassigned Region,29999,5/31/2012,40,0
-608054,57701205,Rapid City Regional Hospital,353 Fairmont Blvd,Rapid City,SD,57701,Unassigned Region,29999,6/30/2012,20,0
-608054,57701205,Rapid City Regional Hospital,353 Fairmont Blvd,Rapid City,SD,57701,Unassigned Region,29999,5/31/2013,40,0
-608054,57701205,Rapid City Regional Hospital,353 Fairmont Blvd,Rapid City,SD,57701,Unassigned Region,29999,6/30/2013,60,0
-608054,57701205,Rapid City Regional Hospital,353 Fairmont Blvd,Rapid City,SD,57701,Unassigned Region,29999,7/31/2013,60,0
-608054,57701205,Rapid City Regional Hospital,353 Fairmont Blvd,Rapid City,SD,57701,Unassigned Region,29999,8/31/2013,50,0
-608054,57701205,Rapid City Regional Hospital,353 Fairmont Blvd,Rapid City,SD,57701,Unassigned Region,29999,8/31/2014,70,0
-608057,57747201,Va Black Hills Healthcare System Hot Springs Campu,500 N 5th St,Hot Springs,SD,57747,Unassigned Region,29999,8/31/2012,14,0
-608058,57747203,Greater Fall River Public Health Service,1201 Highway 71 S,Hot Springs,SD,57747,Unassigned Region,29999,6/30/2013,8,0
-608058,57747203,Greater Fall River Public Health Service,1201 Highway 71 S,Hot Springs,SD,57747,Unassigned Region,29999,9/30/2013,4,0
-608058,57747203,Greater Fall River Public Health Service,1201 Highway 71 S,Hot Springs,SD,57747,Unassigned Region,29999,8/31/2014,12,0
-608058,57747203,Greater Fall River Public Health Service,1201 Highway 71 S,Hot Springs,SD,57747,Unassigned Region,29999,9/30/2014,4,0
-608063,57785200,Sturgis Regional Hospital,949 Harmon St,Sturgis,SD,57785,Unassigned Region,29999,5/31/2012,4,0
-608063,57785200,Sturgis Regional Hospital,949 Harmon St,Sturgis,SD,57785,Unassigned Region,29999,3/31/2014,2,0
-608074,58601200,St Josephs Hospital And Health Center,30 7th St W,Dickinson,ND,58601,Unassigned Region,29999,8/31/2013,14,0
-608074,58601200,St Josephs Hospital And Health Center,30 7th St W,Dickinson,ND,58601,Unassigned Region,29999,9/30/2013,18,0
-608075,58623200,Southwest Healthcare,14 6th Ave Sw,Bowman,ND,58623,Unassigned Region,29999,6/30/2012,6,0
-608078,58801201,Mercy Medical Center,1301 15th Ave W,Williston,ND,58801,Unassigned Region,29999,3/31/2012,4,0
-608078,58801201,Mercy Medical Center,1301 15th Ave W,Williston,ND,58801,Unassigned Region,29999,6/30/2014,8,0
-608079,58854200,Mckenzie County Mem Hosp,508 N Main St,Watford City,ND,58854,Unassigned Region,29999,6/30/2012,4,0
-608080,59019200,Stillwater Billings Clinic,PO Box 959,Columbus,MT,59019,Unassigned Region,29999,8/31/2012,2,0
-608081,59022200,Crow Northern Cheyenne Hospital,1 Hospital Rd,Crow Agency,MT,59022,Unassigned Region,29999,4/30/2012,4,0
-608082,59047200,Livingston Memorial Hospital,504 S 13th St,Livingston,MT,59047,Unassigned Region,29999,4/30/2014,6,0
-608083,59068200,Beartooth Hospital And Health Center,600 W 21st St,Red Lodge,MT,59068,Unassigned Region,29999,9/30/2012,6,0
-608087,59255200,Poplar Community Hospital,H & Court Sts,Poplar,MT,59255,Unassigned Region,29999,7/31/2012,2,0
-608089,59270201,Sidney Health Center,216 14th Ave Sw,Sidney,MT,59270,Unassigned Region,29999,8/31/2012,4,0
-608089,59270201,Sidney Health Center,216 14th Ave Sw,Sidney,MT,59270,Unassigned Region,29999,9/30/2012,12,0
-608090,59301200,Holy Rosary Healthcare,2101 Clark St,Miles City,MT,59301,Unassigned Region,29999,6/30/2013,12,0
-608090,59301200,Holy Rosary Healthcare,2101 Clark St,Miles City,MT,59301,Unassigned Region,29999,8/31/2014,2,0
-608091,59330200,Glendive Medical Center,202 Prospect Dr,Glendive,MT,59330,Unassigned Region,29999,8/31/2012,20,0
-608094,59427200,Northern Rockies Medical Center Inc,802 2nd St Se,Cut Bank,MT,59427,Unassigned Region,29999,4/30/2012,2,0
-608094,59427200,Northern Rockies Medical Center Inc,802 2nd St Se,Cut Bank,MT,59427,Unassigned Region,29999,6/30/2012,2,0
-608094,59427200,Northern Rockies Medical Center Inc,802 2nd St Se,Cut Bank,MT,59427,Unassigned Region,29999,8/31/2012,2,0
-608094,59427200,Northern Rockies Medical Center Inc,802 2nd St Se,Cut Bank,MT,59427,Unassigned Region,29999,8/31/2013,2,0
-608095,59457201,Central Montana Medical Center,408 Wendell Ave,Lewistown,MT,59457,Unassigned Region,29999,8/31/2012,14,0
-608095,59457201,Central Montana Medical Center,408 Wendell Ave,Lewistown,MT,59457,Unassigned Region,29999,8/31/2013,10,0
-608096,59474200,Marias Medical Center,670 Park Ave,Shelby,MT,59474,Unassigned Region,29999,4/30/2013,4,0
-608096,59474200,Marias Medical Center,670 Park Ave,Shelby,MT,59474,Unassigned Region,29999,7/31/2013,2,0
-608096,59474200,Marias Medical Center,670 Park Ave,Shelby,MT,59474,Unassigned Region,29999,3/31/2014,2,0
-608096,59474200,Marias Medical Center,670 Park Ave,Shelby,MT,59474,Unassigned Region,29999,6/30/2014,2,0
-608097,59501200,Northern Montana Hospital,30 13th St,Havre,MT,59501,Unassigned Region,29999,3/31/2014,4,0
-608097,59501200,Northern Montana Hospital,30 13th St,Havre,MT,59501,Unassigned Region,29999,7/31/2014,2,0
-608100,59526200,Usphs Indian Hosp Phcy,Fort Belknap Agency,Harlem,MT,59526,Unassigned Region,29999,7/31/2012,6,0
-608101,59601201,St Peters Hospital,2475 E Broadway St,Helena,MT,59601,Unassigned Region,29999,5/31/2012,6,0
-608101,59601201,St Peters Hospital,2475 E Broadway St,Helena,MT,59601,Unassigned Region,29999,7/31/2013,6,0
-608101,59601201,St Peters Hospital,2475 E Broadway St,Helena,MT,59601,Unassigned Region,29999,6/30/2014,4,0
-608103,59644200,Broadwater Health Center,110 N Oak St,Townsend,MT,59644,Unassigned Region,29999,10/31/2013,2,0
-608104,59701201,ST JAMES COMM WEST & EAST,400 S CLARK-2500 CNTNTL,Butte,MT,59701,Unassigned Region,29999,6/30/2012,12,0
-608104,59701201,ST JAMES COMM WEST & EAST,400 S CLARK-2500 CNTNTL,Butte,MT,59701,Unassigned Region,29999,7/31/2012,8,0
-608104,59701201,ST JAMES COMM WEST & EAST,400 S CLARK-2500 CNTNTL,Butte,MT,59701,Unassigned Region,29999,6/30/2013,4,0
-608107,59725200,Barrett Hospital And Healthcare,90 Mt Hwy 91 S,Dillon,MT,59725,Unassigned Region,29999,6/30/2012,6,0
-608107,59725200,Barrett Hospital And Healthcare,90 Mt Hwy 91 S,Dillon,MT,59725,Unassigned Region,29999,7/31/2012,2,0
-608107,59725200,Barrett Hospital And Healthcare,90 Mt Hwy 91 S,Dillon,MT,59725,Unassigned Region,29999,3/31/2013,4,0
-608108,59802201,Providence St Patrick Hospital,500 W Broadway St,Missoula,MT,59802,Unassigned Region,29999,8/31/2012,12,0
-608108,59802201,Providence St Patrick Hospital,500 W Broadway St,Missoula,MT,59802,Unassigned Region,29999,1/31/2013,-6,0
-608108,59802201,Providence St Patrick Hospital,500 W Broadway St,Missoula,MT,59802,Unassigned Region,29999,5/31/2013,24,0
-608108,59802201,Providence St Patrick Hospital,500 W Broadway St,Missoula,MT,59802,Unassigned Region,29999,6/30/2013,-20,0
-608108,59802201,Providence St Patrick Hospital,500 W Broadway St,Missoula,MT,59802,Unassigned Region,29999,9/30/2013,16,0
-608108,59802201,Providence St Patrick Hospital,500 W Broadway St,Missoula,MT,59802,Unassigned Region,29999,11/30/2013,-4,0
-608108,59802201,Providence St Patrick Hospital,500 W Broadway St,Missoula,MT,59802,Unassigned Region,29999,5/31/2014,8,0
-608109,59804200,Community Medical Center,2827 Fort Missoula Rd,Missoula,MT,59804,Unassigned Region,29999,8/31/2012,12,0
-608109,59804200,Community Medical Center,2827 Fort Missoula Rd,Missoula,MT,59804,Unassigned Region,29999,5/31/2013,14,0
-608109,59804200,Community Medical Center,2827 Fort Missoula Rd,Missoula,MT,59804,Unassigned Region,29999,9/30/2013,12,0
-608109,59804200,Community Medical Center,2827 Fort Missoula Rd,Missoula,MT,59804,Unassigned Region,29999,5/31/2014,24,0
-608109,59804200,Community Medical Center,2827 Fort Missoula Rd,Missoula,MT,59804,Unassigned Region,29999,7/31/2014,28,0
-608109,59804200,Community Medical Center,2827 Fort Missoula Rd,Missoula,MT,59804,Unassigned Region,29999,8/31/2014,-14,0
-608110,59840200,Marcus Daly Memorial Hospital,1200 Westwood Dr,Hamilton,MT,59840,Unassigned Region,29999,4/30/2014,4,0
-608111,59859200,Clark Fork Valley Hospital,Kruger Rd Box 768,Plains,MT,59859,Unassigned Region,29999,10/31/2012,6,0
-608111,59859200,Clark Fork Valley Hospital,Kruger Rd Box 768,Plains,MT,59859,Unassigned Region,29999,6/30/2013,6,0
 608193,60901202,Presence St Marys Hospital,500 W Court St,Kankakee,IL,60901,West Region,20209,3/31/2014,2,0
 608209,61354200,Illinois Valley Community Hospital,925 West St,Peru,IL,61354,West Region,20209,5/31/2012,2,0
 608224,61761200,Bromenn Regional Medical Center,1304 Franklin Ave,Normal,IL,61761,West Region,20209,6/30/2013,8,0
@@ -6213,88 +5973,12 @@ TG_ID,ACCOUNT_NUM,NAME,ADDRESS,CITY,STATE,ZIP,REGION,TERR,DATE,UNITS,CALLS
 608502,68114202,Childrens Hospital And Medical Center,8200 Dodge St,Omaha,NE,68114,West Region,20209,4/30/2014,0,1
 608502,68114202,Childrens Hospital And Medical Center,8200 Dodge St,Omaha,NE,68114,West Region,20209,9/30/2014,0,1
 608510,68305200,Nemaha County Hospital,2022 13th St,Auburn,NE,68305,West Region,20209,5/31/2014,6,0
-608511,68310201,Beatrice Community Hospital And Health Center,1110 N 10th St,Beatrice,NE,68310,Unassigned Region,29999,7/31/2013,4,0
-608511,68310201,Beatrice Community Hospital And Health Center,1110 N 10th St,Beatrice,NE,68310,Unassigned Region,29999,3/31/2014,6,0
-608513,68352202,Jefferson County Memorial Hospital,2200 H St 277,Fairbury,NE,68352,Unassigned Region,29999,4/30/2013,2,0
-608513,68352202,Jefferson County Memorial Hospital,2200 H St 277,Fairbury,NE,68352,Unassigned Region,29999,8/31/2013,2,0
 608514,68355200,Community Medical Center,3307 Barada St,Falls City,NE,68355,West Region,20209,5/31/2013,2,0
 608514,68355200,Community Medical Center,3307 Barada St,Falls City,NE,68355,West Region,20209,9/30/2013,2,0
 608514,68355200,Community Medical Center,3307 Barada St,Falls City,NE,68355,West Region,20209,5/31/2014,4,0
 608516,68410200,St Mary Hospital,1314 3rd Ave,Nebraska City,NE,68410,West Region,20209,4/30/2014,2,0
 608517,68502200,Bryan L G H Medical Center West Campus,2300 S 16th St,Lincoln,NE,68502,West Region,20209,7/31/2013,6,0
 608517,68502200,Bryan L G H Medical Center West Campus,2300 S 16th St,Lincoln,NE,68502,West Region,20209,1/31/2014,6,0
-608523,68701200,Faith Regional Health Services West Campus,2700 W Norfolk Ave,Norfolk,NE,68701,Unassigned Region,29999,9/30/2014,4,0
-608524,68713200,West Holt Memorial Hospital,406 W Neely St,Atkinson,NE,68713,Unassigned Region,29999,6/30/2013,2,0
-608525,68729200,Lundberg Memorial Hospital,1503 Main St,Creighton,NE,68729,Unassigned Region,29999,3/31/2014,2,0
-608526,68746200,Niobrara Valley Hospital,PO Box 118,Lynch,NE,68746,Unassigned Region,29999,3/31/2014,2,0
-608527,68763200,Avera St Anthonys Hospital,300 N 2nd St,Oneill,NE,68763,Unassigned Region,29999,5/31/2014,2,0
-608529,68769200,Plainview Area Health System,704 N 3rd St,Plainview,NE,68769,Unassigned Region,29999,9/30/2012,2,0
-608529,68769200,Plainview Area Health System,704 N 3rd St,Plainview,NE,68769,Unassigned Region,29999,4/30/2014,2,0
-608533,68822200,Jennie M Melham Memorial Medical Center,145 Memorial Dr,Broken Bow,NE,68822,Unassigned Region,29999,9/30/2012,4,0
-608533,68822200,Jennie M Melham Memorial Medical Center,145 Memorial Dr,Broken Bow,NE,68822,Unassigned Region,29999,10/31/2014,2,0
-608534,68825200,Callaway District Hospital,211 E Kimball St,Callaway,NE,68825,Unassigned Region,29999,7/31/2012,6,0
-608534,68825200,Callaway District Hospital,211 E Kimball St,Callaway,NE,68825,Unassigned Region,29999,10/31/2013,4,0
-608534,68825200,Callaway District Hospital,211 E Kimball St,Callaway,NE,68825,Unassigned Region,29999,5/31/2014,4,0
-608535,68847200,Good Samaritan Hospital,10 E 31st St 1990,Kearney,NE,68847,Unassigned Region,29999,9/30/2013,6,0
-608535,68847200,Good Samaritan Hospital,10 E 31st St 1990,Kearney,NE,68847,Unassigned Region,29999,3/31/2014,6,0
-608535,68847200,Good Samaritan Hospital,10 E 31st St 1990,Kearney,NE,68847,Unassigned Region,29999,9/30/2014,16,0
-608536,68862200,Valley County Hospital,2707 L St,Ord,NE,68862,Unassigned Region,29999,3/31/2014,6,0
-608538,68901200,Mary Lanning Memorial Hospital,715 N Saint Joseph Ave,Hastings,NE,68901,Unassigned Region,29999,9/30/2013,10,0
-608538,68901200,Mary Lanning Memorial Hospital,715 N Saint Joseph Ave,Hastings,NE,68901,Unassigned Region,29999,11/30/2013,-10,0
-608539,68920200,Harlan County Health System,717 Brown St,Alma,NE,68920,Unassigned Region,29999,9/30/2012,2,0
-608539,68920200,Harlan County Health System,717 Brown St,Alma,NE,68920,Unassigned Region,29999,6/30/2014,4,0
-608540,68949201,Phelps Memorial Health Center,1215 Tibbals St,Holdrege,NE,68949,Unassigned Region,29999,4/30/2013,4,0
-608540,68949201,Phelps Memorial Health Center,1215 Tibbals St,Holdrege,NE,68949,Unassigned Region,29999,2/28/2014,2,0
-608540,68949201,Phelps Memorial Health Center,1215 Tibbals St,Holdrege,NE,68949,Unassigned Region,29999,6/30/2014,14,0
-608541,68978200,Brodstone Memorial Hospital,520 E 10th St,Superior,NE,68978,Unassigned Region,29999,9/30/2013,2,0
-608542,69001200,Community Hospital,1301 E H St,Mccook,NE,69001,Unassigned Region,29999,4/30/2013,6,0
-608543,69021200,Dundy County Hospital,1313 Cheyenne St,Benkelman,NE,69021,Unassigned Region,29999,10/31/2012,4,0
-608543,69021200,Dundy County Hospital,1313 Cheyenne St,Benkelman,NE,69021,Unassigned Region,29999,12/31/2012,2,0
-608543,69021200,Dundy County Hospital,1313 Cheyenne St,Benkelman,NE,69021,Unassigned Region,29999,7/31/2013,14,0
-608543,69021200,Dundy County Hospital,1313 Cheyenne St,Benkelman,NE,69021,Unassigned Region,29999,8/31/2013,-6,0
-608543,69021200,Dundy County Hospital,1313 Cheyenne St,Benkelman,NE,69021,Unassigned Region,29999,4/30/2014,2,0
-608544,69022200,TRI VALLEY HEALTH SYSTEM,1305 W Hwys 6 & 34,Cambridge,NE,69022,Unassigned Region,29999,9/30/2012,4,0
-608544,69022200,TRI VALLEY HEALTH SYSTEM,1305 W Hwys 6 & 34,Cambridge,NE,69022,Unassigned Region,29999,6/30/2014,6,0
-608545,69033200,Chase County Community Hospital,600 W 12th St,Imperial,NE,69033,Unassigned Region,29999,8/31/2012,4,0
-608545,69033200,Chase County Community Hospital,600 W 12th St,Imperial,NE,69033,Unassigned Region,29999,4/30/2014,2,0
-608545,69033200,Chase County Community Hospital,600 W 12th St,Imperial,NE,69033,Unassigned Region,29999,6/30/2014,4,0
-608546,69101201,Great Plains Regional Medical Center,601 W Leota St,North Platte,NE,69101,Unassigned Region,29999,4/30/2012,10,0
-608546,69101201,Great Plains Regional Medical Center,601 W Leota St,North Platte,NE,69101,Unassigned Region,29999,2/28/2014,8,0
-608546,69101201,Great Plains Regional Medical Center,601 W Leota St,North Platte,NE,69101,Unassigned Region,29999,3/31/2014,12,0
-608546,69101201,Great Plains Regional Medical Center,601 W Leota St,North Platte,NE,69101,Unassigned Region,29999,7/31/2014,8,0
-608546,69101201,Great Plains Regional Medical Center,601 W Leota St,North Platte,NE,69101,Unassigned Region,29999,9/30/2014,2,0
-608547,69130200,Cozad Community Hospital,300 E 12th St,Cozad,NE,69130,Unassigned Region,29999,9/30/2012,4,0
-608548,69138200,Gothenburg Memorial Hospital,910 20th St,Gothenburg,NE,69138,Unassigned Region,29999,4/30/2012,2,0
-608548,69138200,Gothenburg Memorial Hospital,910 20th St,Gothenburg,NE,69138,Unassigned Region,29999,3/31/2014,4,0
-608548,69138200,Gothenburg Memorial Hospital,910 20th St,Gothenburg,NE,69138,Unassigned Region,29999,6/30/2014,6,0
-608549,69145200,Kimball County Hospital,505 S Burg St,Kimball,NE,69145,Unassigned Region,29999,7/31/2012,4,0
-608550,69153200,Ogallala Community Hospital,2601 N Spruce St,Ogallala,NE,69153,Unassigned Region,29999,4/30/2013,4,0
-608550,69153200,Ogallala Community Hospital,2601 N Spruce St,Ogallala,NE,69153,Unassigned Region,29999,7/31/2013,6,0
-608551,69154200,Garden County Hospital,1100 W 2nd St,Oshkosh,NE,69154,Unassigned Region,29999,3/31/2012,2,0
-608551,69154200,Garden County Hospital,1100 W 2nd St,Oshkosh,NE,69154,Unassigned Region,29999,7/31/2012,2,0
-608551,69154200,Garden County Hospital,1100 W 2nd St,Oshkosh,NE,69154,Unassigned Region,29999,6/30/2014,2,0
-608551,69154200,Garden County Hospital,1100 W 2nd St,Oshkosh,NE,69154,Unassigned Region,29999,7/31/2014,2,0
-608552,69162200,Memorial Hosp  Home,645 Osage St 7th,Sidney,NE,69162,Unassigned Region,29999,9/30/2013,24,0
-608552,69162200,Memorial Hosp  Home,645 Osage St 7th,Sidney,NE,69162,Unassigned Region,29999,10/31/2013,-10,0
-608553,69201200,Cherry County Hospital,510 N Green St,Valentine,NE,69201,Unassigned Region,29999,5/31/2012,2,0
-608553,69201200,Cherry County Hospital,510 N Green St,Valentine,NE,69201,Unassigned Region,29999,3/31/2014,2,0
-608553,69201200,Cherry County Hospital,510 N Green St,Valentine,NE,69201,Unassigned Region,29999,4/30/2014,4,0
-608553,69201200,Cherry County Hospital,510 N Green St,Valentine,NE,69201,Unassigned Region,29999,5/31/2014,2,0
-608553,69201200,Cherry County Hospital,510 N Green St,Valentine,NE,69201,Unassigned Region,29999,9/30/2014,2,0
-608554,69210201,Brown County Hospital,945 E Zero St,Ainsworth,NE,69210,Unassigned Region,29999,2/28/2013,4,0
-608554,69210201,Brown County Hospital,945 E Zero St,Ainsworth,NE,69210,Unassigned Region,29999,5/31/2013,2,0
-608554,69210201,Brown County Hospital,945 E Zero St,Ainsworth,NE,69210,Unassigned Region,29999,2/28/2014,2,0
-608554,69210201,Brown County Hospital,945 E Zero St,Ainsworth,NE,69210,Unassigned Region,29999,4/30/2014,10,0
-608555,69301201,Box Butte General Hospital,2101 Box Butte Ave,Alliance,NE,69301,Unassigned Region,29999,4/30/2012,4,0
-608555,69301201,Box Butte General Hospital,2101 Box Butte Ave,Alliance,NE,69301,Unassigned Region,29999,9/30/2012,8,0
-608555,69301201,Box Butte General Hospital,2101 Box Butte Ave,Alliance,NE,69301,Unassigned Region,29999,10/31/2012,-4,0
-608555,69301201,Box Butte General Hospital,2101 Box Butte Ave,Alliance,NE,69301,Unassigned Region,29999,7/31/2013,8,0
-608556,69336200,Morrill County Community Hospital,1313 S St,Bridgeport,NE,69336,Unassigned Region,29999,5/31/2014,4,0
-608557,69337200,Chadron Community Hospital And Health Services,825 Centennial Dr,Chadron,NE,69337,Unassigned Region,29999,7/31/2012,2,0
-608557,69337200,Chadron Community Hospital And Health Services,825 Centennial Dr,Chadron,NE,69337,Unassigned Region,29999,8/31/2012,-2,0
-608557,69337200,Chadron Community Hospital And Health Services,825 Centennial Dr,Chadron,NE,69337,Unassigned Region,29999,4/30/2014,6,0
-608558,69343200,Gordon Memorial Hospital District,300 E 8th St,Gordon,NE,69343,Unassigned Region,29999,7/31/2013,2,0
-608558,69343200,Gordon Memorial Hospital District,300 E 8th St,Gordon,NE,69343,Unassigned Region,29999,9/30/2013,2,0
 608564,70068201,River Parishes Med Ctr,500 Rue De Sante,La Place,LA,70068,East Region,20107,2/29/2012,0,2
 608564,70068201,River Parishes Med Ctr,500 Rue De Sante,La Place,LA,70068,East Region,20107,4/30/2012,0,2
 608564,70068201,River Parishes Med Ctr,500 Rue De Sante,La Place,LA,70068,East Region,20107,7/31/2012,0,1
@@ -9862,74 +9546,6 @@ TG_ID,ACCOUNT_NUM,NAME,ADDRESS,CITY,STATE,ZIP,REGION,TERR,DATE,UNITS,CALLS
 609362,81648200,Rangely District Hospital,225 Eagle Crest St,Rangely,CO,81648,West Region,20201,6/30/2014,6,0
 609363,81657200,Vail Valley Medical Center,181 W Meadow Dr,Vail,CO,81657,West Region,20201,1/31/2013,0,2
 609363,81657200,Vail Valley Medical Center,181 W Meadow Dr,Vail,CO,81657,West Region,20201,12/31/2013,0,1
-609367,82201200,Platte County Memorial Hospital,201 14th St,Wheatland,WY,82201,Unassigned Region,29999,7/31/2012,12,0
-609367,82201200,Platte County Memorial Hospital,201 14th St,Wheatland,WY,82201,Unassigned Region,29999,8/31/2012,14,0
-609367,82201200,Platte County Memorial Hospital,201 14th St,Wheatland,WY,82201,Unassigned Region,29999,9/30/2012,10,0
-609367,82201200,Platte County Memorial Hospital,201 14th St,Wheatland,WY,82201,Unassigned Region,29999,6/30/2014,24,0
-609368,82225201,NIOBRARA HEALTH & LIFE CT,921 Ballencee Ave,Lusk,WY,82225,Unassigned Region,29999,10/31/2012,4,0
-609369,82240200,Community Hospital,2000 Campbell Dr,Torrington,WY,82240,Unassigned Region,29999,6/30/2013,6,0
-609369,82240200,Community Hospital,2000 Campbell Dr,Torrington,WY,82240,Unassigned Region,29999,10/31/2013,6,0
-609369,82240200,Community Hospital,2000 Campbell Dr,Torrington,WY,82240,Unassigned Region,29999,8/31/2014,6,0
-609370,82301200,Memorial Hospital Of Carbon County,2221 Elm St,Rawlins,WY,82301,Unassigned Region,29999,7/31/2013,10,0
-609370,82301200,Memorial Hospital Of Carbon County,2221 Elm St,Rawlins,WY,82301,Unassigned Region,29999,8/31/2014,2,0
-609371,82401200,Washakie Medical Center,400 S 15th St,Worland,WY,82401,Unassigned Region,29999,9/30/2012,2,0
-609371,82401200,Washakie Medical Center,400 S 15th St,Worland,WY,82401,Unassigned Region,29999,7/31/2013,12,0
-609371,82401200,Washakie Medical Center,400 S 15th St,Worland,WY,82401,Unassigned Region,29999,10/31/2014,4,0
-609372,82414200,West Park Hospital,707 Sheridan Ave,Cody,WY,82414,Unassigned Region,29999,6/30/2013,2,0
-609372,82414200,West Park Hospital,707 Sheridan Ave,Cody,WY,82414,Unassigned Region,29999,7/31/2013,6,0
-609372,82414200,West Park Hospital,707 Sheridan Ave,Cody,WY,82414,Unassigned Region,29999,9/30/2013,2,0
-609372,82414200,West Park Hospital,707 Sheridan Ave,Cody,WY,82414,Unassigned Region,29999,6/30/2014,8,0
-609373,82431200,North Big Horn Hospital,1115 Lane 12,Lovell,WY,82431,Unassigned Region,29999,1/31/2014,8,0
-609373,82431200,North Big Horn Hospital,1115 Lane 12,Lovell,WY,82431,Unassigned Region,29999,6/30/2014,6,0
-609374,82435200,Powell Valley Hospital,777 Avenue H,Powell,WY,82435,Unassigned Region,29999,9/30/2012,12,0
-609374,82435200,Powell Valley Hospital,777 Avenue H,Powell,WY,82435,Unassigned Region,29999,7/31/2013,12,0
-609375,82443200,Hot Springs County Memorial Hospital,150 E Arapahoe St,Thermopolis,WY,82443,Unassigned Region,29999,5/31/2014,4,0
-609375,82443200,Hot Springs County Memorial Hospital,150 E Arapahoe St,Thermopolis,WY,82443,Unassigned Region,29999,9/30/2014,26,0
-609376,82501200,Riverton Memorial Hospital,2100 W Sunset Dr,Riverton,WY,82501,Unassigned Region,29999,1/31/2012,6,0
-609376,82501200,Riverton Memorial Hospital,2100 W Sunset Dr,Riverton,WY,82501,Unassigned Region,29999,9/30/2013,4,0
-609376,82501200,Riverton Memorial Hospital,2100 W Sunset Dr,Riverton,WY,82501,Unassigned Region,29999,7/31/2014,20,0
-609377,82520200,Lander Valley Medical Center,1320 Bishop Randall Dr,Lander,WY,82520,Unassigned Region,29999,7/31/2012,8,0
-609377,82520200,Lander Valley Medical Center,1320 Bishop Randall Dr,Lander,WY,82520,Unassigned Region,29999,9/30/2012,42,0
-609377,82520200,Lander Valley Medical Center,1320 Bishop Randall Dr,Lander,WY,82520,Unassigned Region,29999,5/31/2013,12,0
-609377,82520200,Lander Valley Medical Center,1320 Bishop Randall Dr,Lander,WY,82520,Unassigned Region,29999,7/31/2013,10,0
-609377,82520200,Lander Valley Medical Center,1320 Bishop Randall Dr,Lander,WY,82520,Unassigned Region,29999,7/31/2014,14,0
-609379,82633200,Converse County Mem Hosp,111 South 5th/530 Oak,Douglas,WY,82633,Unassigned Region,29999,8/31/2012,2,0
-609379,82633200,Converse County Mem Hosp,111 South 5th/530 Oak,Douglas,WY,82633,Unassigned Region,29999,9/30/2013,4,0
-609380,82701200,Weston County Health Services,1124 Washington Blvd,Newcastle,WY,82701,Unassigned Region,29999,5/31/2014,2,0
-609381,82716200,Campbell County Memorial Hospital,501 S Burma Ave,Gillette,WY,82716,Unassigned Region,29999,4/30/2013,12,0
-609381,82716200,Campbell County Memorial Hospital,501 S Burma Ave,Gillette,WY,82716,Unassigned Region,29999,8/31/2014,24,0
-609382,82801200,Memorial Hospital Of Sheridan County,1401 W 5th St,Sheridan,WY,82801,Unassigned Region,29999,8/31/2012,14,0
-609382,82801200,Memorial Hospital Of Sheridan County,1401 W 5th St,Sheridan,WY,82801,Unassigned Region,29999,6/30/2013,12,0
-609383,82834200,Johnson County Healthcare Center,497 W Lott St,Buffalo,WY,82834,Unassigned Region,29999,5/31/2013,6,0
-609384,82901200,Memorial Hospital Of Sweetwater County,1200 College Dr,Rock Springs,WY,82901,Unassigned Region,29999,7/31/2012,6,0
-609391,83252200,Oneida County Hospital,150 N 200 W,Malad City,ID,83252,Unassigned Region,29999,6/30/2012,2,0
-609391,83252200,Oneida County Hospital,150 N 200 W,Malad City,ID,83252,Unassigned Region,29999,7/31/2014,2,0
-609393,83263200,Franklin County Medical Center,44 N 1st E,Preston,ID,83263,Unassigned Region,29999,6/30/2012,2,0
-609394,83301200,St Lukes Mountain States Tumor Institute,656 Addison Ave W,Twin Falls,ID,83301,Unassigned Region,29999,4/30/2012,20,0
-609394,83301200,St Lukes Mountain States Tumor Institute,656 Addison Ave W,Twin Falls,ID,83301,Unassigned Region,29999,5/31/2014,20,0
-609395,83318200,Cassia Regional Medical Center,1501 Hiland Ave,Burley,ID,83318,Unassigned Region,29999,1/31/2012,8,0
-609395,83318200,Cassia Regional Medical Center,1501 Hiland Ave,Burley,ID,83318,Unassigned Region,29999,4/30/2014,8,0
-609398,83340200,St Lukes Wood River Medical Center,100 Hospital Dr,Ketchum,ID,83340,Unassigned Region,29999,9/30/2013,2,0
-609398,83340200,St Lukes Wood River Medical Center,100 Hospital Dr,Ketchum,ID,83340,Unassigned Region,29999,11/30/2013,10,0
-609399,83350200,Minidoka Memorial Hospital,1224 8th St,Rupert,ID,83350,Unassigned Region,29999,5/31/2014,6,0
-609401,83440200,Madison Memorial Hospital,450 E Main St,Rexburg,ID,83440,Unassigned Region,29999,7/31/2013,4,0
-609402,83467200,Steele Memorial Hospital,PO Box 700,Salmon,ID,83467,Unassigned Region,29999,10/31/2013,6,0
-609404,83522200,St Marys Hospital,PO Box 137,Cottonwood,ID,83522,Unassigned Region,29999,6/30/2013,2,0
-609404,83522200,St Marys Hospital,PO Box 137,Cottonwood,ID,83522,Unassigned Region,29999,7/31/2013,2,0
-609404,83522200,St Marys Hospital,PO Box 137,Cottonwood,ID,83522,Unassigned Region,29999,8/31/2013,4,0
-609405,83530200,Syringa General Hospital,607 W Main St,Grangeville,ID,83530,Unassigned Region,29999,8/31/2012,4,0
-609405,83530200,Syringa General Hospital,607 W Main St,Grangeville,ID,83530,Unassigned Region,29999,7/31/2013,2,0
-609405,83530200,Syringa General Hospital,607 W Main St,Grangeville,ID,83530,Unassigned Region,29999,3/31/2014,2,0
-609405,83530200,Syringa General Hospital,607 W Main St,Grangeville,ID,83530,Unassigned Region,29999,10/31/2014,18,0
-609407,83638200,Mccall Memorial Hospital,1000 State St,Mccall,ID,83638,Unassigned Region,29999,3/31/2012,10,0
-609407,83638200,Mccall Memorial Hospital,1000 State St,Mccall,ID,83638,Unassigned Region,29999,4/30/2014,8,0
-609407,83638200,Mccall Memorial Hospital,1000 State St,Mccall,ID,83638,Unassigned Region,29999,6/30/2014,4,0
-609408,83642202,St Lukes Meridian Hosp,520 S Eagle Rd,Meridian,ID,83642,Unassigned Region,29999,8/31/2014,6,0
-609409,83647200,Elmore Memorial Hospital,895 N 18th East St,Mountain Home,ID,83647,Unassigned Region,29999,6/30/2012,2,0
-609409,83647200,Elmore Memorial Hospital,895 N 18th East St,Mountain Home,ID,83647,Unassigned Region,29999,5/31/2013,4,0
-609409,83647200,Elmore Memorial Hospital,895 N 18th East St,Mountain Home,ID,83647,Unassigned Region,29999,5/31/2014,2,0
-609410,83672200,Weiser Memorial Hospital,645 E 5th St,Weiser,ID,83672,Unassigned Region,29999,4/30/2013,4,0
-609410,83672200,Weiser Memorial Hospital,645 E 5th St,Weiser,ID,83672,Unassigned Region,29999,5/31/2013,2,0
 609418,84003200,American Fork Hospital,1100 East Ln 170,American Fork,UT,84003,West Region,20202,8/31/2012,14,0
 609418,84003200,American Fork Hospital,1100 East Ln 170,American Fork,UT,84003,West Region,20202,9/30/2012,12,0
 609418,84003200,American Fork Hospital,1100 East Ln 170,American Fork,UT,84003,West Region,20202,6/30/2014,6,0
@@ -12010,16 +11626,8 @@ TG_ID,ACCOUNT_NUM,NAME,ADDRESS,CITY,STATE,ZIP,REGION,TERR,DATE,UNITS,CALLS
 610397,39823200,Early Memorial Hospital,11740 Columbia St,Blakely,GA,39823,East Region,20104,4/30/2012,8,0
 610397,39823200,Early Memorial Hospital,11740 Columbia St,Blakely,GA,39823,East Region,20104,7/31/2014,4,0
 610397,39823200,Early Memorial Hospital,11740 Columbia St,Blakely,GA,39823,East Region,20104,10/31/2014,4,0
-610405,59034200,Big Horn County Memorial Hospital,17 N Miles Ave,Hardin,MT,59034,Unassigned Region,29999,3/31/2012,2,0
-610405,59034200,Big Horn County Memorial Hospital,17 N Miles Ave,Hardin,MT,59034,Unassigned Region,29999,6/30/2013,2,0
-610406,59043200,Public Health Service Indian Health Clinic,PO Box 70,Lame Deer,MT,59043,Unassigned Region,29999,4/30/2012,6,0
-610406,59043200,Public Health Service Indian Health Clinic,PO Box 70,Lame Deer,MT,59043,Unassigned Region,29999,7/31/2012,10,0
 610413,67530203,Surgical And Diagnostic Center Of Great Bend,514 Cleveland St,Great Bend,KS,67530,West Region,20209,3/31/2012,2,0
 610413,67530203,Surgical And Diagnostic Center Of Great Bend,514 Cleveland St,Great Bend,KS,67530,West Region,20209,5/31/2014,2,0
-610416,68850201,Lexington Regional Health Center,1201 N Erie St,Lexington,NE,68850,Unassigned Region,29999,4/30/2012,6,0
-610416,68850201,Lexington Regional Health Center,1201 N Erie St,Lexington,NE,68850,Unassigned Region,29999,6/30/2014,6,0
-610417,69140200,Perkins County Health Services,900 Lincoln Ave,Grant,NE,69140,Unassigned Region,29999,4/30/2012,4,0
-610417,69140200,Perkins County Health Services,900 Lincoln Ave,Grant,NE,69140,Unassigned Region,29999,6/30/2014,4,0
 610419,70525200,Acadia St Landry Hospital,810 S Broadway St,Church Point,LA,70525,East Region,20107,4/30/2012,6,2
 610419,70525200,Acadia St Landry Hospital,810 S Broadway St,Church Point,LA,70525,East Region,20107,11/30/2012,0,1
 610419,70525200,Acadia St Landry Hospital,810 S Broadway St,Church Point,LA,70525,East Region,20107,1/31/2013,0,1
@@ -12219,10 +11827,6 @@ TG_ID,ACCOUNT_NUM,NAME,ADDRESS,CITY,STATE,ZIP,REGION,TERR,DATE,UNITS,CALLS
 610609,80303202,Boulder Community Foothills Hospital,4747 Arapahoe Ave,Boulder,CO,80303,West Region,20201,6/30/2013,0,2
 610609,80303202,Boulder Community Foothills Hospital,4747 Arapahoe Ave,Boulder,CO,80303,West Region,20201,8/31/2013,6,0
 610609,80303202,Boulder Community Foothills Hospital,4747 Arapahoe Ave,Boulder,CO,80303,West Region,20201,11/30/2013,0,1
-610614,82729200,Crook Co Medical Services District,713 Oak St,Sundance,WY,82729,Unassigned Region,29999,2/28/2014,2,0
-610615,83544200,Clearwater Valley Hospital And Clinic,301 Cedar St,Orofino,ID,83544,Unassigned Region,29999,7/31/2012,4,0
-610615,83544200,Clearwater Valley Hospital And Clinic,301 Cedar St,Orofino,ID,83544,Unassigned Region,29999,6/30/2014,2,0
-610615,83544200,Clearwater Valley Hospital And Clinic,301 Cedar St,Orofino,ID,83544,Unassigned Region,29999,7/31/2014,14,0
 610619,84721200,Valley View Hospital,1303 N Main St,Cedar City,UT,84721,West Region,20202,4/30/2012,6,0
 610619,84721200,Valley View Hospital,1303 N Main St,Cedar City,UT,84721,West Region,20202,8/31/2012,12,0
 610619,84721200,Valley View Hospital,1303 N Main St,Cedar City,UT,84721,West Region,20202,5/31/2013,6,0
@@ -12284,8 +11888,6 @@ TG_ID,ACCOUNT_NUM,NAME,ADDRESS,CITY,STATE,ZIP,REGION,TERR,DATE,UNITS,CALLS
 610677,39730200,Pioneer Community Hospital Of Aberdeen,400 S Chestnut St,Aberdeen,MS,39730,East Region,20107,5/31/2012,4,0
 610677,39730200,Pioneer Community Hospital Of Aberdeen,400 S Chestnut St,Aberdeen,MS,39730,East Region,20107,7/31/2014,2,0
 610688,43140200,Madison County Hospital,210 N Main St,London,OH,43140,East Region,20108,2/28/2014,2,0
-610735,59201200,Northeast Montana Health Services,315 Knapp St,Wolf Point,MT,59201,Unassigned Region,29999,6/30/2012,2,0
-610735,59201200,Northeast Montana Health Services,315 Knapp St,Wolf Point,MT,59201,Unassigned Region,29999,7/31/2012,10,0
 610740,18045201,St Lukes Anderson Hospital,1872 Riverside Cir,Easton,PA,18045,East Region,20108,6/30/2012,2,0
 610740,18045201,St Lukes Anderson Hospital,1872 Riverside Cir,Easton,PA,18045,East Region,20108,8/31/2012,8,0
 610740,18045201,St Lukes Anderson Hospital,1872 Riverside Cir,Easton,PA,18045,East Region,20108,7/31/2014,6,0
@@ -12304,7 +11906,6 @@ TG_ID,ACCOUNT_NUM,NAME,ADDRESS,CITY,STATE,ZIP,REGION,TERR,DATE,UNITS,CALLS
 610777,31719200,Phoebe Sumter Medical Center,126 Us Highway 280 W,Americus,GA,31719,East Region,20104,6/30/2014,6,0
 610777,31719200,Phoebe Sumter Medical Center,126 Us Highway 280 W,Americus,GA,31719,East Region,20104,9/30/2014,16,0
 610778,38382200,Gibson General Hospital,200 Hospital Dr,Trenton,TN,38382,East Region,20107,6/30/2012,6,0
-610789,82801201,Sheridan Va Medical Center,1898 Fort Rd,Sheridan,WY,82801,Unassigned Region,29999,6/30/2012,6,0
 610791,85132201,Florence Hospital Anthem,4545 N Hunt Hwy,Florence,AZ,85132,West Region,20202,2/29/2012,6,0
 610791,85132201,Florence Hospital Anthem,4545 N Hunt Hwy,Florence,AZ,85132,West Region,20202,4/30/2012,6,0
 610791,85132201,Florence Hospital Anthem,4545 N Hunt Hwy,Florence,AZ,85132,West Region,20202,9/30/2012,6,0
@@ -12317,7 +11918,6 @@ TG_ID,ACCOUNT_NUM,NAME,ADDRESS,CITY,STATE,ZIP,REGION,TERR,DATE,UNITS,CALLS
 610791,85132201,Florence Hospital Anthem,4545 N Hunt Hwy,Florence,AZ,85132,West Region,20202,6/30/2014,6,0
 610791,85132201,Florence Hospital Anthem,4545 N Hunt Hwy,Florence,AZ,85132,West Region,20202,8/31/2014,0,1
 610802,24153006,VALLEY APOTHECARY,1802 Braeburn Dr,Salem,VA,24153,East Region,20101,7/31/2012,2,0
-610808,56560420,Usdrugs Com Inc Usdrugs Com,3505 8th St S,Moorhead,MN,56560,Unassigned Region,29999,7/31/2012,2,0
 610813,79905207,El Paso Childrens Physicians Group,4845 Alameda Ave,El Paso,TX,79905,West Region,20204,3/31/2012,2,0
 610813,79905207,El Paso Childrens Physicians Group,4845 Alameda Ave,El Paso,TX,79905,West Region,20204,8/31/2012,2,0
 610813,79905207,El Paso Childrens Physicians Group,4845 Alameda Ave,El Paso,TX,79905,West Region,20204,9/30/2012,20,2
@@ -12343,7 +11943,6 @@ TG_ID,ACCOUNT_NUM,NAME,ADDRESS,CITY,STATE,ZIP,REGION,TERR,DATE,UNITS,CALLS
 610828,30265203,Piedmont Newnan Hospital Main,745 POPLAR RD,Newnan,GA,30265,East Region,20104,2/28/2014,0,1
 610828,30265203,Piedmont Newnan Hospital Main,745 POPLAR RD,Newnan,GA,30265,East Region,20104,6/30/2014,10,0
 610828,30265203,Piedmont Newnan Hospital Main,745 POPLAR RD,Newnan,GA,30265,East Region,20104,7/31/2014,0,1
-610847,8701200,Kimball Medical Center,600 River Ave,Lakewood,NJ,8701,Unassigned Region,29999,6/30/2013,2,0
 610855,30553200,The Urology Clinic Ty Cobb Regional Medical Center,367 Clear Creek Pkwy,Lavonia,GA,30553,East Region,20104,9/30/2012,12,0
 610855,30553200,The Urology Clinic Ty Cobb Regional Medical Center,367 Clear Creek Pkwy,Lavonia,GA,30553,East Region,20104,6/30/2014,2,0
 610855,30553200,The Urology Clinic Ty Cobb Regional Medical Center,367 Clear Creek Pkwy,Lavonia,GA,30553,East Region,20104,9/30/2014,16,0
@@ -12757,10 +12356,6 @@ TG_ID,ACCOUNT_NUM,NAME,ADDRESS,CITY,STATE,ZIP,REGION,TERR,DATE,UNITS,CALLS
 650292,2.43E+17,The Nebraska Medical Center,4350 Dewey Ave,Omaha,NE,68105,West Region,20209,8/31/2014,0,2
 650292,2.43E+17,The Nebraska Medical Center,4350 Dewey Ave,Omaha,NE,68105,West Region,20209,9/30/2014,0,1
 650294,35233202,Birmingham Va Medical Center,700 19th St S,Birmingham,AL,35233,East Region,20106,4/30/2012,0,1
-651364,54601203,Franciscan Skemp Healthcare Group Mayo Health Syst,700 W Avenue S,La Crosse,WI,54601,Unassigned Region,29999,5/31/2012,6,0
-651364,54601203,Franciscan Skemp Healthcare Group Mayo Health Syst,700 W Avenue S,La Crosse,WI,54601,Unassigned Region,29999,8/31/2012,6,0
-651364,54601203,Franciscan Skemp Healthcare Group Mayo Health Syst,700 W Avenue S,La Crosse,WI,54601,Unassigned Region,29999,4/30/2014,4,0
-651364,54601203,Franciscan Skemp Healthcare Group Mayo Health Syst,700 W Avenue S,La Crosse,WI,54601,Unassigned Region,29999,9/30/2014,2,0
 651787,32308201,Capital Regional Medical Center,2626 Capital Medical Blvd,Tallahassee,FL,32308,East Region,20105,1/31/2012,6,0
 651787,32308201,Capital Regional Medical Center,2626 Capital Medical Blvd,Tallahassee,FL,32308,East Region,20105,2/29/2012,0,4
 651787,32308201,Capital Regional Medical Center,2626 Capital Medical Blvd,Tallahassee,FL,32308,East Region,20105,3/31/2012,0,1
@@ -12882,11 +12477,6 @@ TG_ID,ACCOUNT_NUM,NAME,ADDRESS,CITY,STATE,ZIP,REGION,TERR,DATE,UNITS,CALLS
 651795,85224200,Chandler Regional Medical Center,475 S Dobson Rd,Chandler,AZ,85224,West Region,20202,7/31/2014,6,0
 651795,85224200,Chandler Regional Medical Center,475 S Dobson Rd,Chandler,AZ,85224,West Region,20202,8/31/2014,12,1
 651795,85224200,Chandler Regional Medical Center,475 S Dobson Rd,Chandler,AZ,85224,West Region,20202,10/31/2014,0,1
-651796,82001201,United Medical Center West,214 E 23rd St,Cheyenne,WY,82001,Unassigned Region,29999,6/30/2013,20,0
-651796,82001201,United Medical Center West,214 E 23rd St,Cheyenne,WY,82001,Unassigned Region,29999,7/31/2013,12,0
-651796,82001201,United Medical Center West,214 E 23rd St,Cheyenne,WY,82001,Unassigned Region,29999,9/30/2013,4,0
-651796,82001201,United Medical Center West,214 E 23rd St,Cheyenne,WY,82001,Unassigned Region,29999,2/28/2014,6,0
-651796,82001201,United Medical Center West,214 E 23rd St,Cheyenne,WY,82001,Unassigned Region,29999,8/31/2014,20,0
 651797,90027200,Childrens Hospital Los Angeles,4650 W Sunset Blvd Ste 16,Los Angeles,CA,90027,West Region,20206,3/31/2012,14,1
 651797,90027200,Childrens Hospital Los Angeles,4650 W Sunset Blvd Ste 16,Los Angeles,CA,90027,West Region,20206,5/31/2012,0,1
 651797,90027200,Childrens Hospital Los Angeles,4650 W Sunset Blvd Ste 16,Los Angeles,CA,90027,West Region,20206,7/31/2012,20,0
@@ -12982,7 +12572,6 @@ TG_ID,ACCOUNT_NUM,NAME,ADDRESS,CITY,STATE,ZIP,REGION,TERR,DATE,UNITS,CALLS
 651808,91360202,Columbia Los Robles Med,215 W Janss Rd,Thousand Oaks,CA,91360,West Region,20206,9/30/2014,4,0
 651808,91360202,Columbia Los Robles Med,215 W Janss Rd,Thousand Oaks,CA,91360,West Region,20206,10/31/2014,0,1
 651808,91360202,Columbia Los Robles Med,215 W Janss Rd,Thousand Oaks,CA,91360,West Region,20206,12/31/2014,0,1
-651811,6706200,Saint Marys Hospital,56 Franklin St,Waterbury,CT,6706,Unassigned Region,29999,9/30/2012,2,0
 651813,33484200,Delray Community Hospital,5352 Linton Blvd,Delray Beach,FL,33484,East Region,20105,9/30/2012,6,0
 651814,76210200,Denton Regional Medical Center,3535 S Interstate 35 E,Denton,TX,76210,West Region,20203,1/31/2012,0,1
 651814,76210200,Denton Regional Medical Center,3535 S Interstate 35 E,Denton,TX,76210,West Region,20203,2/29/2012,0,1
@@ -13228,12 +12817,6 @@ TG_ID,ACCOUNT_NUM,NAME,ADDRESS,CITY,STATE,ZIP,REGION,TERR,DATE,UNITS,CALLS
 651840,37040200,Gateway Medical Center,651 Dunlop Ln,Clarksville,TN,37040,East Region,20106,9/30/2013,0,4
 651840,37040200,Gateway Medical Center,651 Dunlop Ln,Clarksville,TN,37040,East Region,20106,6/30/2014,2,0
 651840,37040200,Gateway Medical Center,651 Dunlop Ln,Clarksville,TN,37040,East Region,20106,7/31/2014,2,0
-651841,52803200,Genesis Health System,1227 E Rusholme St,Davenport,IA,52803,Unassigned Region,29999,8/31/2012,6,0
-651841,52803200,Genesis Health System,1227 E Rusholme St,Davenport,IA,52803,Unassigned Region,29999,7/31/2014,2,0
-651844,10901200,Good Samaritan Hospital Of Suffern,255 Lafayette Ave,Suffern,NY,10901,Unassigned Region,29999,6/30/2012,14,0
-651844,10901200,Good Samaritan Hospital Of Suffern,255 Lafayette Ave,Suffern,NY,10901,Unassigned Region,29999,7/31/2012,6,0
-651844,10901200,Good Samaritan Hospital Of Suffern,255 Lafayette Ave,Suffern,NY,10901,Unassigned Region,29999,8/31/2012,22,0
-651844,10901200,Good Samaritan Hospital Of Suffern,255 Lafayette Ave,Suffern,NY,10901,Unassigned Region,29999,10/31/2014,10,0
 651845,75013200,Presbyterian Hospital-Allen,1105 Central Expy N,Allen,TX,75013,West Region,20203,4/30/2012,10,0
 651845,75013200,Presbyterian Hospital-Allen,1105 Central Expy N,Allen,TX,75013,West Region,20203,7/31/2012,22,0
 651845,75013200,Presbyterian Hospital-Allen,1105 Central Expy N,Allen,TX,75013,West Region,20203,12/31/2012,-12,0
@@ -13323,8 +12906,6 @@ TG_ID,ACCOUNT_NUM,NAME,ADDRESS,CITY,STATE,ZIP,REGION,TERR,DATE,UNITS,CALLS
 651862,34689201,Florida Hospital North Pinellas,1395 S Pinellas Ave,Tarpon Springs,FL,34689,East Region,20105,10/31/2013,6,0
 651862,34689201,Florida Hospital North Pinellas,1395 S Pinellas Ave,Tarpon Springs,FL,34689,East Region,20105,12/31/2013,0,1
 651863,60901201,Riverside Medical Center,350 N Wall St,Kankakee,IL,60901,West Region,20209,9/30/2013,2,0
-651864,55415200,Hennepin County Medical Center,701 Park Ave,Minneapolis,MN,55415,Unassigned Region,29999,7/31/2013,4,0
-651864,55415200,Hennepin County Medical Center,701 Park Ave,Minneapolis,MN,55415,Unassigned Region,29999,11/30/2014,2,0
 651865,46060200,Riverview Hospital,395 Westfield Rd,Noblesville,IN,46060,West Region,20209,1/31/2012,2,0
 651865,46060200,Riverview Hospital,395 Westfield Rd,Noblesville,IN,46060,West Region,20209,8/31/2014,2,0
 651866,30281200,Henry Medical Center,1133 Eagles Landing Pkwy,Stockbridge,GA,30281,East Region,20104,2/29/2012,0,1
@@ -13502,9 +13083,6 @@ TG_ID,ACCOUNT_NUM,NAME,ADDRESS,CITY,STATE,ZIP,REGION,TERR,DATE,UNITS,CALLS
 651881,28677201,Iredell Memorial Hospital,557 Brookdale Dr 1828,Statesville,NC,28677,East Region,20102,11/30/2013,0,2
 651881,28677201,Iredell Memorial Hospital,557 Brookdale Dr 1828,Statesville,NC,28677,East Region,20102,1/31/2014,0,2
 651881,28677201,Iredell Memorial Hospital,557 Brookdale Dr 1828,Statesville,NC,28677,East Region,20102,4/30/2014,0,2
-651883,10461202,Jacobi Medical Center,1400 Pelham Pkwy S Bldg 5,Bronx,NY,10461,Unassigned Region,29999,7/31/2012,32,0
-651883,10461202,Jacobi Medical Center,1400 Pelham Pkwy S Bldg 5,Bronx,NY,10461,Unassigned Region,29999,9/30/2012,8,0
-651883,10461202,Jacobi Medical Center,1400 Pelham Pkwy S Bldg 5,Bronx,NY,10461,Unassigned Region,29999,9/30/2013,28,0
 651884,39301201,Jeff Anderson Regional Medical Center,2124 14th St,Meridian,MS,39301,East Region,20107,2/29/2012,0,1
 651884,39301201,Jeff Anderson Regional Medical Center,2124 14th St,Meridian,MS,39301,East Region,20107,4/30/2012,8,0
 651884,39301201,Jeff Anderson Regional Medical Center,2124 14th St,Meridian,MS,39301,East Region,20107,5/31/2012,0,2
@@ -13694,11 +13272,6 @@ TG_ID,ACCOUNT_NUM,NAME,ADDRESS,CITY,STATE,ZIP,REGION,TERR,DATE,UNITS,CALLS
 651924,34208200,Manatee Memorial Hospital,206 2nd St E,Bradenton,FL,34208,East Region,20105,3/31/2013,0,1
 651924,34208200,Manatee Memorial Hospital,206 2nd St E,Bradenton,FL,34208,East Region,20105,7/31/2013,0,1
 651924,34208200,Manatee Memorial Hospital,206 2nd St E,Bradenton,FL,34208,East Region,20105,9/30/2013,12,0
-651925,95501202,St Joseph Hospital Eureka,2700 Dolbeer St,Eureka,CA,95501,Unassigned Region,29999,11/30/2012,12,0
-651925,95501202,St Joseph Hospital Eureka,2700 Dolbeer St,Eureka,CA,95501,Unassigned Region,29999,6/30/2013,16,0
-651925,95501202,St Joseph Hospital Eureka,2700 Dolbeer St,Eureka,CA,95501,Unassigned Region,29999,7/31/2013,20,0
-651925,95501202,St Joseph Hospital Eureka,2700 Dolbeer St,Eureka,CA,95501,Unassigned Region,29999,8/31/2013,12,0
-651925,95501202,St Joseph Hospital Eureka,2700 Dolbeer St,Eureka,CA,95501,Unassigned Region,29999,11/30/2013,20,0
 651926,33558200,St Josephs Hospital North,4211 Van Dyke Rd,Lutz,FL,33558,East Region,20105,8/31/2012,18,0
 651926,33558200,St Josephs Hospital North,4211 Van Dyke Rd,Lutz,FL,33558,East Region,20105,9/30/2012,26,0
 651926,33558200,St Josephs Hospital North,4211 Van Dyke Rd,Lutz,FL,33558,East Region,20105,10/31/2012,12,1
@@ -13722,7 +13295,6 @@ TG_ID,ACCOUNT_NUM,NAME,ADDRESS,CITY,STATE,ZIP,REGION,TERR,DATE,UNITS,CALLS
 651931,97477200,Mckenzie Willamette Medical Center,1460 G St,Springfield,OR,97477,West Region,20208,7/31/2012,8,0
 651931,97477200,Mckenzie Willamette Medical Center,1460 G St,Springfield,OR,97477,West Region,20208,6/30/2013,2,0
 651931,97477200,Mckenzie Willamette Medical Center,1460 G St,Springfield,OR,97477,West Region,20208,1/31/2014,24,0
-651932,48532202,Mclaren Flint,401 S Ballenger Hwy,Flint,MI,48532,Unassigned Region,29999,5/31/2012,18,0
 651933,76015201,Medical Center Of Arlington,3301 Matlock Rd,Arlington,TX,76015,West Region,20203,11/30/2012,0,2
 651933,76015201,Medical Center Of Arlington,3301 Matlock Rd,Arlington,TX,76015,West Region,20203,2/28/2013,0,2
 651933,76015201,Medical Center Of Arlington,3301 Matlock Rd,Arlington,TX,76015,West Region,20203,4/30/2013,6,0
@@ -13891,7 +13463,6 @@ TG_ID,ACCOUNT_NUM,NAME,ADDRESS,CITY,STATE,ZIP,REGION,TERR,DATE,UNITS,CALLS
 651947,70506205,The Regional Medical Ctr,2810 Ambassador Caffery Pkwy,Lafayette,LA,70506,East Region,20107,6/30/2014,2,0
 651947,70506205,The Regional Medical Ctr,2810 Ambassador Caffery Pkwy,Lafayette,LA,70506,East Region,20107,8/31/2014,6,0
 651947,70506205,The Regional Medical Ctr,2810 Ambassador Caffery Pkwy,Lafayette,LA,70506,East Region,20107,11/30/2014,2,0
-651948,52245201,Mercy Hospital,500 E Market St,Iowa City,IA,52245,Unassigned Region,29999,8/31/2013,2,0
 651949,77479201,Methodist Health Center Sugarland,16655 Southwest Fwy,Sugar Land,TX,77479,West Region,20205,4/30/2012,0,2
 651949,77479201,Methodist Health Center Sugarland,16655 Southwest Fwy,Sugar Land,TX,77479,West Region,20205,5/31/2012,0,1
 651949,77479201,Methodist Health Center Sugarland,16655 Southwest Fwy,Sugar Land,TX,77479,West Region,20205,6/30/2012,10,0
@@ -14382,18 +13953,6 @@ TG_ID,ACCOUNT_NUM,NAME,ADDRESS,CITY,STATE,ZIP,REGION,TERR,DATE,UNITS,CALLS
 652017,34601200,Brooksville Regional Hospital,17240 Cortez Blvd,Brooksville,FL,34601,East Region,20105,3/31/2014,2,0
 652017,34601200,Brooksville Regional Hospital,17240 Cortez Blvd,Brooksville,FL,34601,East Region,20105,4/30/2014,2,1
 652017,34601200,Brooksville Regional Hospital,17240 Cortez Blvd,Brooksville,FL,34601,East Region,20105,11/30/2014,0,1
-652030,7960201,Morristown Medical Center,100 Madison Ave 1,Morristown,NJ,7960,Unassigned Region,29999,5/31/2012,12,0
-652030,7960201,Morristown Medical Center,100 Madison Ave 1,Morristown,NJ,7960,Unassigned Region,29999,7/31/2014,12,0
-652033,7834200,St Clares Hospital Denville,25 Pocono Rd,Denville,NJ,7834,Unassigned Region,29999,6/30/2013,2,0
-652033,7834200,St Clares Hospital Denville,25 Pocono Rd,Denville,NJ,7834,Unassigned Region,29999,8/31/2013,2,0
-652033,7834200,St Clares Hospital Denville,25 Pocono Rd,Denville,NJ,7834,Unassigned Region,29999,5/31/2014,2,0
-652033,7834200,St Clares Hospital Denville,25 Pocono Rd,Denville,NJ,7834,Unassigned Region,29999,6/30/2014,2,0
-652034,8876200,Robert Wood Johnson University Hospital Somerset,110 Rehill Ave,Somerville,NJ,8876,Unassigned Region,29999,5/31/2014,4,0
-652037,6030200,Univ Of Conndempsey Hosp,263 Farmington Ave,Farmington,CT,6030,Unassigned Region,29999,8/31/2012,6,0
-652037,6030200,Univ Of Conndempsey Hosp,263 Farmington Ave,Farmington,CT,6030,Unassigned Region,29999,9/30/2014,20,0
-652038,7503201,St Josephs Hospital And Medical Center,703 Main St,Paterson,NJ,7503,Unassigned Region,29999,7/31/2013,6,0
-652038,7503201,St Josephs Hospital And Medical Center,703 Main St,Paterson,NJ,7503,Unassigned Region,29999,11/30/2014,2,0
-652040,8043200,Virtua West Jersey Hospital Voorhees,101 Carnie Blvd,Voorhees,NJ,8043,Unassigned Region,29999,8/31/2012,6,0
 652043,90033203,Los Angeles County University Of Southern Californ,1200 N State St 2e19,Los Angeles,CA,90033,West Region,20206,6/30/2012,12,0
 652043,90033203,Los Angeles County University Of Southern Californ,1200 N State St 2e19,Los Angeles,CA,90033,West Region,20206,7/31/2012,8,0
 652043,90033203,Los Angeles County University Of Southern Californ,1200 N State St 2e19,Los Angeles,CA,90033,West Region,20206,8/31/2012,10,1
@@ -14425,7 +13984,6 @@ TG_ID,ACCOUNT_NUM,NAME,ADDRESS,CITY,STATE,ZIP,REGION,TERR,DATE,UNITS,CALLS
 652050,29732201,Piedmont Healthcare Systems,222 S Herlong Ave,Rock Hill,SC,29732,East Region,20103,10/31/2014,10,1
 652050,29732201,Piedmont Healthcare Systems,222 S Herlong Ave,Rock Hill,SC,29732,East Region,20103,11/30/2014,2,0
 652050,29732201,Piedmont Healthcare Systems,222 S Herlong Ave,Rock Hill,SC,29732,East Region,20103,12/31/2014,0,1
-652052,48602203,COVENANT HLTHCARE COOPER,700 Cooper Ave,Saginaw,MI,48602,Unassigned Region,29999,7/31/2012,4,0
 652054,35205201,Uab Highlands Hospital,1201 11th Ave S Ste 410,Birmingham,AL,35205,East Region,20106,5/31/2012,6,0
 652054,35205201,Uab Highlands Hospital,1201 11th Ave S Ste 410,Birmingham,AL,35205,East Region,20106,4/30/2014,0,1
 652055,65802201,COX HEALTH SYSTEMS NORTH,1423 N Jefferson Ave,Springfield,MO,65802,West Region,20209,4/30/2012,2,0
@@ -14469,8 +14027,6 @@ TG_ID,ACCOUNT_NUM,NAME,ADDRESS,CITY,STATE,ZIP,REGION,TERR,DATE,UNITS,CALLS
 652061,75071201,Baylor Medical Center,5252 W University Dr,Mc Kinney,TX,75071,West Region,20203,9/30/2014,0,2
 652061,75071201,Baylor Medical Center,5252 W University Dr,Mc Kinney,TX,75071,West Region,20203,10/31/2014,20,1
 652061,75071201,Baylor Medical Center,5252 W University Dr,Mc Kinney,TX,75071,West Region,20203,11/30/2014,0,2
-652063,12308200,Ellis Hospital,1101 Nott St,Schenectady,NY,12308,Unassigned Region,29999,5/31/2012,2,0
-652063,12308200,Ellis Hospital,1101 Nott St,Schenectady,NY,12308,Unassigned Region,29999,8/31/2014,6,0
 652065,90095206,Ucla Westwood Oncology Clinic,100 Ucla Medical Plz,Los Angeles,CA,90024,West Region,20206,6/30/2014,4,0
 652066,30474200,Meadows Regional Medical Center,1 Meadows Pkwy,Vidalia,GA,30474,East Region,20104,1/31/2012,4,0
 652066,30474200,Meadows Regional Medical Center,1 Meadows Pkwy,Vidalia,GA,30474,East Region,20104,10/31/2012,12,0
@@ -14687,10 +14243,6 @@ TG_ID,ACCOUNT_NUM,NAME,ADDRESS,CITY,STATE,ZIP,REGION,TERR,DATE,UNITS,CALLS
 652087,77384202,St Lukes The Woodlands,17200 Saint Lukes Way,Conroe,TX,77384,West Region,20205,8/31/2014,8,2
 652087,77384202,St Lukes The Woodlands,17200 Saint Lukes Way,Conroe,TX,77384,West Region,20205,9/30/2014,0,1
 652087,77384202,St Lukes The Woodlands,17200 Saint Lukes Way,Conroe,TX,77384,West Region,20205,12/31/2014,0,1
-652088,57078200,AVERA SACRED HEART HLTH,501 Summit St,Yankton,SD,57078,Unassigned Region,29999,7/31/2012,6,0
-652088,57078200,AVERA SACRED HEART HLTH,501 Summit St,Yankton,SD,57078,Unassigned Region,29999,2/28/2013,4,0
-652088,57078200,AVERA SACRED HEART HLTH,501 Summit St,Yankton,SD,57078,Unassigned Region,29999,3/31/2013,12,0
-652088,57078200,AVERA SACRED HEART HLTH,501 Summit St,Yankton,SD,57078,Unassigned Region,29999,10/31/2014,8,0
 652090,62226200,Protestant Memorial Medical Center Inc,4500 Memorial Dr,Belleville,IL,62226,West Region,20209,1/31/2013,4,0
 652091,80228203,St Anthony Hospital Lakewood,11650 W 2nd Pl,Lakewood,CO,80228,West Region,20201,6/30/2012,6,0
 652091,80228203,St Anthony Hospital Lakewood,11650 W 2nd Pl,Lakewood,CO,80228,West Region,20201,7/31/2012,4,0
@@ -14891,7 +14443,6 @@ TG_ID,ACCOUNT_NUM,NAME,ADDRESS,CITY,STATE,ZIP,REGION,TERR,DATE,UNITS,CALLS
 652123,17403204,York Hospital,1001 S George St,York,PA,17403,East Region,20108,4/30/2014,6,0
 652123,17403204,York Hospital,1001 S George St,York,PA,17403,East Region,20108,7/31/2014,4,0
 652123,17403204,York Hospital,1001 S George St,York,PA,17403,East Region,20108,10/31/2014,0,2
-652124,13905200,Our Lady Of Lourdes Memorial Hospital,169 Riverside Dr,Binghamton,NY,13905,Unassigned Region,29999,10/31/2012,6,0
 652125,27607203,Rex Hospital,4420 Lake Boone Trl,Raleigh,NC,27607,East Region,20102,1/31/2012,0,2
 652125,27607203,Rex Hospital,4420 Lake Boone Trl,Raleigh,NC,27607,East Region,20102,2/29/2012,0,4
 652125,27607203,Rex Hospital,4420 Lake Boone Trl,Raleigh,NC,27607,East Region,20102,3/31/2012,0,2
@@ -15365,7 +14916,6 @@ TG_ID,ACCOUNT_NUM,NAME,ADDRESS,CITY,STATE,ZIP,REGION,TERR,DATE,UNITS,CALLS
 652210,93003200,Community Memorial Hospital San Buenaventura,147 N Brent St,Ventura,CA,93003,West Region,20206,3/31/2014,14,0
 652210,93003200,Community Memorial Hospital San Buenaventura,147 N Brent St,Ventura,CA,93003,West Region,20206,9/30/2014,8,0
 652211,60048200,Condell Medical Center,801 S Milwaukee Ave,Libertyville,IL,60048,West Region,20209,6/30/2013,2,0
-652213,12901201,Cvph Medical Center,75 Beekman St,Plattsburgh,NY,12901,Unassigned Region,29999,5/31/2014,6,0
 652214,99204203,Deaconess Medical Center,800 W 5th Ave Fl 5ne,Spokane,WA,99204,West Region,20208,5/31/2012,4,0
 652214,99204203,Deaconess Medical Center,800 W 5th Ave Fl 5ne,Spokane,WA,99204,West Region,20208,11/30/2012,0,1
 652214,99204203,Deaconess Medical Center,800 W 5th Ave Fl 5ne,Spokane,WA,99204,West Region,20208,12/31/2012,0,1
@@ -15822,11 +15372,6 @@ TG_ID,ACCOUNT_NUM,NAME,ADDRESS,CITY,STATE,ZIP,REGION,TERR,DATE,UNITS,CALLS
 652267,33912201,Gulf Coast Hospital,13681 Doctors Way,Fort Myers,FL,33912,East Region,20105,4/30/2013,8,1
 652267,33912201,Gulf Coast Hospital,13681 Doctors Way,Fort Myers,FL,33912,East Region,20105,10/31/2013,0,1
 652267,33912201,Gulf Coast Hospital,13681 Doctors Way,Fort Myers,FL,33912,East Region,20105,12/31/2014,24,0
-652268,54601202,Gundersen Lutheran Medical Center,1900 South Ave,La Crosse,WI,54601,Unassigned Region,29999,8/31/2012,10,0
-652268,54601202,Gundersen Lutheran Medical Center,1900 South Ave,La Crosse,WI,54601,Unassigned Region,29999,9/30/2012,-4,0
-652268,54601202,Gundersen Lutheran Medical Center,1900 South Ave,La Crosse,WI,54601,Unassigned Region,29999,4/30/2014,4,0
-652268,54601202,Gundersen Lutheran Medical Center,1900 South Ave,La Crosse,WI,54601,Unassigned Region,29999,6/30/2014,2,0
-652268,54601202,Gundersen Lutheran Medical Center,1900 South Ave,La Crosse,WI,54601,Unassigned Region,29999,11/30/2014,6,0
 652269,38305205,Regional Hospital Of Jackson,367 Hospital Blvd,Jackson,TN,38305,East Region,20107,6/30/2012,0,2
 652269,38305205,Regional Hospital Of Jackson,367 Hospital Blvd,Jackson,TN,38305,East Region,20107,8/31/2012,0,1
 652269,38305205,Regional Hospital Of Jackson,367 Hospital Blvd,Jackson,TN,38305,East Region,20107,9/30/2012,12,0
@@ -15838,19 +15383,9 @@ TG_ID,ACCOUNT_NUM,NAME,ADDRESS,CITY,STATE,ZIP,REGION,TERR,DATE,UNITS,CALLS
 652269,38305205,Regional Hospital Of Jackson,367 Hospital Blvd,Jackson,TN,38305,East Region,20107,12/31/2013,0,1
 652269,38305205,Regional Hospital Of Jackson,367 Hospital Blvd,Jackson,TN,38305,East Region,20107,1/31/2014,0,1
 652269,38305205,Regional Hospital Of Jackson,367 Hospital Blvd,Jackson,TN,38305,East Region,20107,9/30/2014,0,2
-652270,7601200,Hackensack Medical Center,30 Prospect Ave & 2nd St,Hackensack,NJ,7601,Unassigned Region,29999,8/31/2012,4,0
-652270,7601200,Hackensack Medical Center,30 Prospect Ave & 2nd St,Hackensack,NJ,7601,Unassigned Region,29999,10/31/2012,4,0
 652271,90502200,Harbor Ucla,1000 W Carson St 497,Torrance,CA,90502,West Region,20206,4/30/2013,12,0
 652271,90502200,Harbor Ucla,1000 W Carson St 497,Torrance,CA,90502,West Region,20206,11/30/2013,8,0
 652271,90502200,Harbor Ucla,1000 W Carson St 497,Torrance,CA,90502,West Region,20206,6/30/2014,0,1
-652272,69361201,Regional West Medical Center,4021 Avenue B,Scottsbluff,NE,69361,Unassigned Region,29999,7/31/2012,24,0
-652272,69361201,Regional West Medical Center,4021 Avenue B,Scottsbluff,NE,69361,Unassigned Region,29999,1/31/2013,2,0
-652272,69361201,Regional West Medical Center,4021 Avenue B,Scottsbluff,NE,69361,Unassigned Region,29999,3/31/2013,12,0
-652272,69361201,Regional West Medical Center,4021 Avenue B,Scottsbluff,NE,69361,Unassigned Region,29999,6/30/2013,8,0
-652272,69361201,Regional West Medical Center,4021 Avenue B,Scottsbluff,NE,69361,Unassigned Region,29999,7/31/2013,32,0
-652272,69361201,Regional West Medical Center,4021 Avenue B,Scottsbluff,NE,69361,Unassigned Region,29999,8/31/2013,28,0
-652272,69361201,Regional West Medical Center,4021 Avenue B,Scottsbluff,NE,69361,Unassigned Region,29999,8/31/2014,8,0
-652273,55101201,Regions Hospital,640 Jackson St,Saint Paul,MN,55101,Unassigned Region,29999,12/31/2014,2,0
 652274,89502203,Renown Regional Medical Center,1155 Mill St,Reno,NV,89502,West Region,20206,6/30/2012,44,0
 652274,89502203,Renown Regional Medical Center,1155 Mill St,Reno,NV,89502,West Region,20206,9/30/2012,20,0
 652274,89502203,Renown Regional Medical Center,1155 Mill St,Reno,NV,89502,West Region,20206,5/31/2013,2,0
@@ -15877,9 +15412,6 @@ TG_ID,ACCOUNT_NUM,NAME,ADDRESS,CITY,STATE,ZIP,REGION,TERR,DATE,UNITS,CALLS
 652279,86403201,Havasu Regional Medical Center,101 Civic Center Ln,Lake Havasu City,AZ,86403,West Region,20202,10/31/2013,0,4
 652279,86403201,Havasu Regional Medical Center,101 Civic Center Ln,Lake Havasu City,AZ,86403,West Region,20202,1/31/2014,0,1
 652279,86403201,Havasu Regional Medical Center,101 Civic Center Ln,Lake Havasu City,AZ,86403,West Region,20202,9/30/2014,0,2
-652280,14621200,Rochester General Hospital,1425 Portland Ave,Rochester,NY,14621,Unassigned Region,29999,4/30/2012,4,0
-652280,14621200,Rochester General Hospital,1425 Portland Ave,Rochester,NY,14621,Unassigned Region,29999,4/30/2014,2,0
-652280,14621200,Rochester General Hospital,1425 Portland Ave,Rochester,NY,14621,Unassigned Region,29999,8/31/2014,2,0
 652281,92501200,Riverside Community Hospital,4445 Magnolia Ave,Riverside,CA,92501,West Region,20206,2/29/2012,0,7
 652281,92501200,Riverside Community Hospital,4445 Magnolia Ave,Riverside,CA,92501,West Region,20206,3/31/2012,0,3
 652281,92501200,Riverside Community Hospital,4445 Magnolia Ave,Riverside,CA,92501,West Region,20206,5/31/2012,0,4
@@ -16390,12 +15922,6 @@ TG_ID,ACCOUNT_NUM,NAME,ADDRESS,CITY,STATE,ZIP,REGION,TERR,DATE,UNITS,CALLS
 652338,93720204,St Agnes Medical Center,1303 E Herndon Ave,Fresno,CA,93720,West Region,20208,9/30/2013,0,2
 652338,93720204,St Agnes Medical Center,1303 E Herndon Ave,Fresno,CA,93720,West Region,20208,1/31/2014,0,1
 652338,93720204,St Agnes Medical Center,1303 E Herndon Ave,Fresno,CA,93720,West Region,20208,11/30/2014,0,1
-652339,58501202,St Alexius Medical Center,900 E Broadway Ave,Bismarck,ND,58501,Unassigned Region,29999,4/30/2012,4,0
-652339,58501202,St Alexius Medical Center,900 E Broadway Ave,Bismarck,ND,58501,Unassigned Region,29999,7/31/2012,16,0
-652339,58501202,St Alexius Medical Center,900 E Broadway Ave,Bismarck,ND,58501,Unassigned Region,29999,8/31/2012,24,0
-652339,58501202,St Alexius Medical Center,900 E Broadway Ave,Bismarck,ND,58501,Unassigned Region,29999,6/30/2014,8,0
-652339,58501202,St Alexius Medical Center,900 E Broadway Ave,Bismarck,ND,58501,Unassigned Region,29999,8/31/2014,2,0
-652340,49085200,Lakeland Hospital St Joseph,1234 Napier Ave,Saint Joseph,MI,49085,Unassigned Region,29999,5/31/2013,2,0
 652341,63128200,St Anthony Medical Center,10010 Kennerly Rd,Saint Louis,MO,63128,West Region,20209,3/31/2012,10,1
 652341,63128200,St Anthony Medical Center,10010 Kennerly Rd,Saint Louis,MO,63128,West Region,20209,4/30/2012,0,2
 652341,63128200,St Anthony Medical Center,10010 Kennerly Rd,Saint Louis,MO,63128,West Region,20209,5/31/2012,0,1
@@ -16631,12 +16157,6 @@ TG_ID,ACCOUNT_NUM,NAME,ADDRESS,CITY,STATE,ZIP,REGION,TERR,DATE,UNITS,CALLS
 652375,30342207,St Joseph Hospital,5665 Peachtree Dunwoody Rd Ne,Atlanta,GA,30342,East Region,20104,7/31/2014,6,0
 652377,46804200,Lutheran Hospital Of Indiana,7950 W Jefferson Blvd,Fort Wayne,IN,46804,West Region,20209,4/30/2013,4,0
 652377,46804200,Lutheran Hospital Of Indiana,7950 W Jefferson Blvd,Fort Wayne,IN,46804,West Region,20209,7/31/2014,8,0
-652378,83501200,St Josephs Hospital,415 6th St,Lewiston,ID,83501,Unassigned Region,29999,5/31/2012,16,0
-652378,83501200,St Josephs Hospital,415 6th St,Lewiston,ID,83501,Unassigned Region,29999,7/31/2012,36,0
-652378,83501200,St Josephs Hospital,415 6th St,Lewiston,ID,83501,Unassigned Region,29999,8/31/2012,6,0
-652378,83501200,St Josephs Hospital,415 6th St,Lewiston,ID,83501,Unassigned Region,29999,9/30/2012,12,0
-652378,83501200,St Josephs Hospital,415 6th St,Lewiston,ID,83501,Unassigned Region,29999,6/30/2013,18,0
-652378,83501200,St Josephs Hospital,415 6th St,Lewiston,ID,83501,Unassigned Region,29999,8/31/2014,36,0
 652379,19605200,St Joseph Medical Center,2500 Bernville Rd,Reading,PA,19605,East Region,20108,6/30/2013,0,1
 652379,19605200,St Joseph Medical Center,2500 Bernville Rd,Reading,PA,19605,East Region,20108,8/31/2013,0,1
 652379,19605200,St Joseph Medical Center,2500 Bernville Rd,Reading,PA,19605,East Region,20108,9/30/2013,6,0
@@ -16742,15 +16262,6 @@ TG_ID,ACCOUNT_NUM,NAME,ADDRESS,CITY,STATE,ZIP,REGION,TERR,DATE,UNITS,CALLS
 652392,22401200,Mary Washington Hospital,1001 Sam Perry Blvd,Fredericksburg,VA,22401,East Region,20101,8/31/2014,18,0
 652392,22401200,Mary Washington Hospital,1001 Sam Perry Blvd,Fredericksburg,VA,22401,East Region,20101,9/30/2014,12,3
 652392,22401200,Mary Washington Hospital,1001 Sam Perry Blvd,Fredericksburg,VA,22401,East Region,20101,11/30/2014,0,3
-652395,55902203,Saint Marys Hospital Mayo Health System,1216 2nd St Sw,Rochester,MN,55902,Unassigned Region,29999,2/29/2012,-26,0
-652395,55902203,Saint Marys Hospital Mayo Health System,1216 2nd St Sw,Rochester,MN,55902,Unassigned Region,29999,1/31/2013,18,0
-652395,55902203,Saint Marys Hospital Mayo Health System,1216 2nd St Sw,Rochester,MN,55902,Unassigned Region,29999,4/30/2013,8,0
-652395,55902203,Saint Marys Hospital Mayo Health System,1216 2nd St Sw,Rochester,MN,55902,Unassigned Region,29999,5/31/2013,18,0
-652395,55902203,Saint Marys Hospital Mayo Health System,1216 2nd St Sw,Rochester,MN,55902,Unassigned Region,29999,6/30/2013,8,0
-652395,55902203,Saint Marys Hospital Mayo Health System,1216 2nd St Sw,Rochester,MN,55902,Unassigned Region,29999,8/31/2013,-22,0
-652395,55902203,Saint Marys Hospital Mayo Health System,1216 2nd St Sw,Rochester,MN,55902,Unassigned Region,29999,10/31/2013,2,0
-652395,55902203,Saint Marys Hospital Mayo Health System,1216 2nd St Sw,Rochester,MN,55902,Unassigned Region,29999,3/31/2014,22,0
-652395,55902203,Saint Marys Hospital Mayo Health System,1216 2nd St Sw,Rochester,MN,55902,Unassigned Region,29999,9/30/2014,2,0
 652396,84403200,Mckay Dee Hospital Center,4401 Harrison Blvd,Ogden,UT,84403,West Region,20202,5/31/2014,4,0
 652398,29506204,M C Leod Regional Medical Center,555 E Cheves St 8700,Florence,SC,29506,East Region,20103,1/31/2012,0,1
 652398,29506204,M C Leod Regional Medical Center,555 E Cheves St 8700,Florence,SC,29506,East Region,20103,3/31/2012,0,2
@@ -17074,9 +16585,6 @@ TG_ID,ACCOUNT_NUM,NAME,ADDRESS,CITY,STATE,ZIP,REGION,TERR,DATE,UNITS,CALLS
 652430,19140201,Temple University Hospital,3401 N Broad St & Ontario,Philadelphia,PA,19140,East Region,20108,9/30/2013,0,1
 652430,19140201,Temple University Hospital,3401 N Broad St & Ontario,Philadelphia,PA,19140,East Region,20108,3/31/2014,0,1
 652430,19140201,Temple University Hospital,3401 N Broad St & Ontario,Philadelphia,PA,19140,East Region,20108,8/31/2014,0,1
-652431,50314202,Mercy Medical Center Des Moines,1111 6th Ave,Des Moines,IA,50314,Unassigned Region,29999,7/31/2012,46,0
-652431,50314202,Mercy Medical Center Des Moines,1111 6th Ave,Des Moines,IA,50314,Unassigned Region,29999,10/31/2012,-2,0
-652431,50314202,Mercy Medical Center Des Moines,1111 6th Ave,Des Moines,IA,50314,Unassigned Region,29999,5/31/2014,8,0
 652432,73120200,Mercy Health Center,4300 W Memorial Rd,Oklahoma City,OK,73120,West Region,20201,5/31/2012,4,0
 652432,73120200,Mercy Health Center,4300 W Memorial Rd,Oklahoma City,OK,73120,West Region,20201,6/30/2013,0,1
 652432,73120200,Mercy Health Center,4300 W Memorial Rd,Oklahoma City,OK,73120,West Region,20201,7/31/2013,0,1
@@ -17311,13 +16819,6 @@ TG_ID,ACCOUNT_NUM,NAME,ADDRESS,CITY,STATE,ZIP,REGION,TERR,DATE,UNITS,CALLS
 652455,40202202,University Of Louisville Hospital,545 S Jackson St,Louisville,KY,40202,East Region,20103,10/31/2013,0,1
 652455,40202202,University Of Louisville Hospital,545 S Jackson St,Louisville,KY,40202,East Region,20103,11/30/2013,0,1
 652455,40202202,University Of Louisville Hospital,545 S Jackson St,Louisville,KY,40202,East Region,20103,8/31/2014,2,0
-652456,48109200,University Of Michigan Medical Center,1500 E Medical Center Dr,Ann Arbor,MI,48109,Unassigned Region,29999,7/31/2012,34,0
-652456,48109200,University Of Michigan Medical Center,1500 E Medical Center Dr,Ann Arbor,MI,48109,Unassigned Region,29999,12/31/2012,6,0
-652456,48109200,University Of Michigan Medical Center,1500 E Medical Center Dr,Ann Arbor,MI,48109,Unassigned Region,29999,9/30/2013,14,0
-652456,48109200,University Of Michigan Medical Center,1500 E Medical Center Dr,Ann Arbor,MI,48109,Unassigned Region,29999,12/31/2013,8,0
-652456,48109200,University Of Michigan Medical Center,1500 E Medical Center Dr,Ann Arbor,MI,48109,Unassigned Region,29999,6/30/2014,14,0
-652456,48109200,University Of Michigan Medical Center,1500 E Medical Center Dr,Ann Arbor,MI,48109,Unassigned Region,29999,8/31/2014,12,0
-652456,48109200,University Of Michigan Medical Center,1500 E Medical Center Dr,Ann Arbor,MI,48109,Unassigned Region,29999,12/31/2014,8,0
 652457,89128200,Mountain View Hospital,3100 N Tenaya Way,Las Vegas,NV,89128,West Region,20206,2/29/2012,0,2
 652457,89128200,Mountain View Hospital,3100 N Tenaya Way,Las Vegas,NV,89128,West Region,20206,5/31/2012,0,1
 652457,89128200,Mountain View Hospital,3100 N Tenaya Way,Las Vegas,NV,89128,West Region,20206,7/31/2012,0,1
@@ -17410,11 +16911,6 @@ TG_ID,ACCOUNT_NUM,NAME,ADDRESS,CITY,STATE,ZIP,REGION,TERR,DATE,UNITS,CALLS
 652465,34471204,Munroe Regional Medical Center,1500 Sw 1st Ave,Ocala,FL,34471,East Region,20105,5/31/2014,12,0
 652465,34471204,Munroe Regional Medical Center,1500 Sw 1st Ave,Ocala,FL,34471,East Region,20105,9/30/2014,26,0
 652465,34471204,Munroe Regional Medical Center,1500 Sw 1st Ave,Ocala,FL,34471,East Region,20105,10/31/2014,0,1
-652467,49684200,Munson Healthcare Munson Medical Center,Munson Medical Center,Traverse City,MI,49684,Unassigned Region,29999,6/30/2012,10,0
-652467,49684200,Munson Healthcare Munson Medical Center,Munson Medical Center,Traverse City,MI,49684,Unassigned Region,29999,7/31/2012,6,0
-652467,49684200,Munson Healthcare Munson Medical Center,Munson Medical Center,Traverse City,MI,49684,Unassigned Region,29999,9/30/2012,4,0
-652467,49684200,Munson Healthcare Munson Medical Center,Munson Medical Center,Traverse City,MI,49684,Unassigned Region,29999,9/30/2013,20,0
-652467,49684200,Munson Healthcare Munson Medical Center,Munson Medical Center,Traverse City,MI,49684,Unassigned Region,29999,6/30/2014,20,0
 652468,30901203,University Hospital,1350 Walton Way,Augusta,GA,30901,East Region,20103,2/29/2012,0,2
 652468,30901203,University Hospital,1350 Walton Way,Augusta,GA,30901,East Region,20103,4/30/2012,0,1
 652468,30901203,University Hospital,1350 Walton Way,Augusta,GA,30901,East Region,20103,5/31/2012,4,1
@@ -17617,10 +17113,6 @@ TG_ID,ACCOUNT_NUM,NAME,ADDRESS,CITY,STATE,ZIP,REGION,TERR,DATE,UNITS,CALLS
 652496,70072200,West Jefferson Medical Center,1101 Medical Center Blvd,Marrero,LA,70072,East Region,20107,9/30/2012,0,1
 652496,70072200,West Jefferson Medical Center,1101 Medical Center Blvd,Marrero,LA,70072,East Region,20107,12/31/2012,2,0
 652496,70072200,West Jefferson Medical Center,1101 Medical Center Blvd,Marrero,LA,70072,East Region,20107,11/30/2014,0,1
-652497,48124200,Oakwood Hospital And Medical Center,18101 Oakwood Blvd,Dearborn,MI,48124,Unassigned Region,29999,7/31/2013,2,0
-652498,10595204,Westchester Medical Center Behavioral Health Cente,100 Woods Rd 326,Valhalla,NY,10595,Unassigned Region,29999,9/30/2012,12,0
-652498,10595204,Westchester Medical Center Behavioral Health Cente,100 Woods Rd 326,Valhalla,NY,10595,Unassigned Region,29999,5/31/2013,-6,0
-652498,10595204,Westchester Medical Center Behavioral Health Cente,100 Woods Rd 326,Valhalla,NY,10595,Unassigned Region,29999,5/31/2014,10,0
 652499,70056202,Ochsner Medical Center West Bank,2500 Belle Chasse Hwy*,Gretna,LA,70056,East Region,20107,11/30/2013,6,0
 652499,70056202,Ochsner Medical Center West Bank,2500 Belle Chasse Hwy*,Gretna,LA,70056,East Region,20107,10/31/2014,2,0
 652500,33414207,Wellington Regional Medical,10101 Forest Hill Blvd,Wellington,FL,33414,East Region,20105,7/31/2012,16,0
@@ -17640,25 +17132,9 @@ TG_ID,ACCOUNT_NUM,NAME,ADDRESS,CITY,STATE,ZIP,REGION,TERR,DATE,UNITS,CALLS
 652503,79920200,William Beaumont Army Medical Center,5005 N Piedras St Bldg 7777,El Paso,TX,79920,West Region,20204,9/30/2013,0,2
 652503,79920200,William Beaumont Army Medical Center,5005 N Piedras St Bldg 7777,El Paso,TX,79920,West Region,20204,9/30/2014,24,0
 652503,79920200,William Beaumont Army Medical Center,5005 N Piedras St Bldg 7777,El Paso,TX,79920,West Region,20204,10/31/2014,48,0
-652504,82601200,Wyoming Medical Center,1233 E 2nd St,Casper,WY,82601,Unassigned Region,29999,5/31/2012,4,0
-652504,82601200,Wyoming Medical Center,1233 E 2nd St,Casper,WY,82601,Unassigned Region,29999,6/30/2012,20,0
-652504,82601200,Wyoming Medical Center,1233 E 2nd St,Casper,WY,82601,Unassigned Region,29999,6/30/2014,6,0
-652504,82601200,Wyoming Medical Center,1233 E 2nd St,Casper,WY,82601,Unassigned Region,29999,8/31/2014,12,0
-652505,6510205,Yale New Haven Hospital,20 York St T-209,New Haven,CT,6510,Unassigned Region,29999,6/30/2012,18,0
-652505,6510205,Yale New Haven Hospital,20 York St T-209,New Haven,CT,6510,Unassigned Region,29999,8/31/2012,8,0
-652505,6510205,Yale New Haven Hospital,20 York St T-209,New Haven,CT,6510,Unassigned Region,29999,9/30/2012,8,0
-652505,6510205,Yale New Haven Hospital,20 York St T-209,New Haven,CT,6510,Unassigned Region,29999,9/30/2013,6,0
 652509,90822201,Va Long Beach Healthcare System,5901 E 7th St,Long Beach,CA,90822,West Region,20206,2/29/2012,0,1
 652509,90822201,Va Long Beach Healthcare System,5901 E 7th St,Long Beach,CA,90822,West Region,20206,3/31/2012,0,2
 652509,90822201,Va Long Beach Healthcare System,5901 E 7th St,Long Beach,CA,90822,West Region,20206,12/31/2014,0,1
-652515,83712201,St Lukes Boise Medical Center,190 E Bannock St,Boise,ID,83712,Unassigned Region,29999,1/31/2013,4,0
-652515,83712201,St Lukes Boise Medical Center,190 E Bannock St,Boise,ID,83712,Unassigned Region,29999,3/31/2013,4,0
-652515,83712201,St Lukes Boise Medical Center,190 E Bannock St,Boise,ID,83712,Unassigned Region,29999,5/31/2013,4,0
-652515,83712201,St Lukes Boise Medical Center,190 E Bannock St,Boise,ID,83712,Unassigned Region,29999,7/31/2013,4,0
-652515,83712201,St Lukes Boise Medical Center,190 E Bannock St,Boise,ID,83712,Unassigned Region,29999,8/31/2013,2,0
-652515,83712201,St Lukes Boise Medical Center,190 E Bannock St,Boise,ID,83712,Unassigned Region,29999,6/30/2014,6,0
-652515,83712201,St Lukes Boise Medical Center,190 E Bannock St,Boise,ID,83712,Unassigned Region,29999,10/31/2014,8,0
-652515,83712201,St Lukes Boise Medical Center,190 E Bannock St,Boise,ID,83712,Unassigned Region,29999,11/30/2014,2,0
 652516,70806200,Baton Rouge General Medical Center,3600 Florida Blvd,Baton Rouge,LA,70806,East Region,20107,1/31/2012,0,2
 652516,70806200,Baton Rouge General Medical Center,3600 Florida Blvd,Baton Rouge,LA,70806,East Region,20107,2/29/2012,0,3
 652516,70806200,Baton Rouge General Medical Center,3600 Florida Blvd,Baton Rouge,LA,70806,East Region,20107,3/31/2012,0,4
@@ -17676,7 +17152,6 @@ TG_ID,ACCOUNT_NUM,NAME,ADDRESS,CITY,STATE,ZIP,REGION,TERR,DATE,UNITS,CALLS
 652516,70806200,Baton Rouge General Medical Center,3600 Florida Blvd,Baton Rouge,LA,70806,East Region,20107,9/30/2014,2,1
 652516,70806200,Baton Rouge General Medical Center,3600 Florida Blvd,Baton Rouge,LA,70806,East Region,20107,10/31/2014,0,1
 652516,70806200,Baton Rouge General Medical Center,3600 Florida Blvd,Baton Rouge,LA,70806,East Region,20107,12/31/2014,0,1
-652519,48202203,Henry Ford Hospital,2799 W Grand Blvd,Detroit,MI,48202,Unassigned Region,29999,1/31/2013,12,0
 652520,15025200,Jefferson Regional Medical Center,565 Coal Valley Rd,Clairton,PA,15025,East Region,20108,2/29/2012,0,1
 652520,15025200,Jefferson Regional Medical Center,565 Coal Valley Rd,Clairton,PA,15025,East Region,20108,3/31/2012,0,2
 652520,15025200,Jefferson Regional Medical Center,565 Coal Valley Rd,Clairton,PA,15025,East Region,20108,5/31/2012,6,2
@@ -17773,7 +17248,6 @@ TG_ID,ACCOUNT_NUM,NAME,ADDRESS,CITY,STATE,ZIP,REGION,TERR,DATE,UNITS,CALLS
 652543,36305200,Flowers Hospital,4370 W Main St,Dothan,AL,36305,East Region,20106,8/31/2014,2,1
 652543,36305200,Flowers Hospital,4370 W Main St,Dothan,AL,36305,East Region,20106,9/30/2014,36,3
 652543,36305200,Flowers Hospital,4370 W Main St,Dothan,AL,36305,East Region,20106,12/31/2014,0,1
-652545,12208200,Albany Medical Center Hospital,43 New Scotland Ave,Albany,NY,12208,Unassigned Region,29999,3/31/2014,12,0
 652546,22304201,Inova Alexandria Hospital,4320 Seminary Rd,Alexandria,VA,22304,East Region,20101,8/31/2013,4,0
 652546,22304201,Inova Alexandria Hospital,4320 Seminary Rd,Alexandria,VA,22304,East Region,20101,9/30/2013,8,0
 652546,22304201,Inova Alexandria Hospital,4320 Seminary Rd,Alexandria,VA,22304,East Region,20101,6/30/2014,12,0
@@ -17801,8 +17275,6 @@ TG_ID,ACCOUNT_NUM,NAME,ADDRESS,CITY,STATE,ZIP,REGION,TERR,DATE,UNITS,CALLS
 652548,27215201,Alamance Regional Medical Center,1240 Huffman Mill Rd,Burlington,NC,27215,East Region,20102,1/31/2014,0,2
 652548,27215201,Alamance Regional Medical Center,1240 Huffman Mill Rd,Burlington,NC,27215,East Region,20102,5/31/2014,16,2
 652548,27215201,Alamance Regional Medical Center,1240 Huffman Mill Rd,Burlington,NC,27215,East Region,20102,9/30/2014,4,0
-652550,14905202,Arnot Ogden Medical Center,600 Roe Ave Fl 2,Elmira,NY,14905,Unassigned Region,29999,8/31/2013,6,0
-652550,14905202,Arnot Ogden Medical Center,600 Roe Ave Fl 2,Elmira,NY,14905,Unassigned Region,29999,3/31/2014,4,0
 652551,21401200,Anne Arundel Medical Center,2001 Medical Pkwy,Annapolis,MD,21401,East Region,20101,7/31/2012,2,0
 652551,21401200,Anne Arundel Medical Center,2001 Medical Pkwy,Annapolis,MD,21401,East Region,20101,9/30/2012,8,0
 652551,21401200,Anne Arundel Medical Center,2001 Medical Pkwy,Annapolis,MD,21401,East Region,20101,11/30/2012,0,1
@@ -17961,12 +17433,6 @@ TG_ID,ACCOUNT_NUM,NAME,ADDRESS,CITY,STATE,ZIP,REGION,TERR,DATE,UNITS,CALLS
 652564,33701201,Bayfront Medical Center Inc,701 6th St S,Saint Petersburg,FL,33701,East Region,20105,8/31/2013,2,0
 652568,33435200,Bethesda Memorial Hospital,2815 S Seacrest Blvd,Boynton Beach,FL,33435,East Region,20105,9/30/2012,4,0
 652568,33435200,Bethesda Memorial Hospital,2815 S Seacrest Blvd,Boynton Beach,FL,33435,East Region,20105,9/30/2013,4,0
-652570,49048200,Borgess Medical Center,1521 Gull Rd,Kalamazoo,MI,49048,Unassigned Region,29999,12/31/2012,2,0
-652570,49048200,Borgess Medical Center,1521 Gull Rd,Kalamazoo,MI,49048,Unassigned Region,29999,3/31/2013,4,0
-652571,59715200,Bozeman Deaconess Hospital,915 Highland Blvd,Bozeman,MT,59715,Unassigned Region,29999,6/30/2012,2,0
-652571,59715200,Bozeman Deaconess Hospital,915 Highland Blvd,Bozeman,MT,59715,Unassigned Region,29999,2/28/2013,4,0
-652571,59715200,Bozeman Deaconess Hospital,915 Highland Blvd,Bozeman,MT,59715,Unassigned Region,29999,5/31/2013,10,0
-652571,59715200,Bozeman Deaconess Hospital,915 Highland Blvd,Bozeman,MT,59715,Unassigned Region,29999,9/30/2013,20,0
 652573,16001200,Butler Memorial Hospital,1 Hospital Way,Butler,PA,16001,East Region,20108,2/29/2012,0,1
 652573,16001200,Butler Memorial Hospital,1 Hospital Way,Butler,PA,16001,East Region,20108,3/31/2012,4,0
 652573,16001200,Butler Memorial Hospital,1 Hospital Way,Butler,PA,16001,East Region,20108,5/31/2012,0,1
@@ -18026,24 +17492,6 @@ TG_ID,ACCOUNT_NUM,NAME,ADDRESS,CITY,STATE,ZIP,REGION,TERR,DATE,UNITS,CALLS
 652582,80218201,Presbyterian St Lukes Med Ctr,1719 E 19th St,Denver,CO,80218,West Region,20201,6/30/2014,0,1
 652582,80218201,Presbyterian St Lukes Med Ctr,1719 E 19th St,Denver,CO,80218,West Region,20201,8/31/2014,8,0
 652582,80218201,Presbyterian St Lukes Med Ctr,1719 E 19th St,Denver,CO,80218,West Region,20201,9/30/2014,18,0
-652584,6610201,Bridgeport Hospital,267 Grant St 5000,Bridgeport,CT,6610,Unassigned Region,29999,3/31/2012,2,0
-652593,6320200,Lawrence And Memorial Hospital,365 Montauk Ave,New London,CT,6320,Unassigned Region,29999,6/30/2012,4,0
-652593,6320200,Lawrence And Memorial Hospital,365 Montauk Ave,New London,CT,6320,Unassigned Region,29999,6/30/2013,6,0
-652593,6320200,Lawrence And Memorial Hospital,365 Montauk Ave,New London,CT,6320,Unassigned Region,29999,4/30/2014,2,0
-652596,6457201,Middlesex Hospital,28 Crescent St,Middletown,CT,6457,Unassigned Region,29999,8/31/2012,2,0
-652596,6457201,Middlesex Hospital,28 Crescent St,Middletown,CT,6457,Unassigned Region,29999,5/31/2013,2,0
-652596,6457201,Middlesex Hospital,28 Crescent St,Middletown,CT,6457,Unassigned Region,29999,3/31/2014,2,0
-652598,2906201,The Miriam Hospital,164 Summit Ave,Providence,RI,2906,Unassigned Region,29999,6/30/2013,4,0
-652603,7039201,St Barnabas Medical Center,Saint Barnabas Medical Ctr,Livingston,NJ,7039,Unassigned Region,29999,7/31/2012,2,0
-652603,7039201,St Barnabas Medical Center,Saint Barnabas Medical Ctr,Livingston,NJ,7039,Unassigned Region,29999,3/31/2013,2,0
-652603,7039201,St Barnabas Medical Center,Saint Barnabas Medical Ctr,Livingston,NJ,7039,Unassigned Region,29999,10/31/2014,2,0
-652603,7039201,St Barnabas Medical Center,Saint Barnabas Medical Ctr,Livingston,NJ,7039,Unassigned Region,29999,12/31/2014,4,0
-652606,8060200,Virtua Memorial Health,175 Madison Ave,Mount Holly,NJ,8060,Unassigned Region,29999,1/31/2012,2,0
-652606,8060200,Virtua Memorial Health,175 Madison Ave,Mount Holly,NJ,8060,Unassigned Region,29999,8/31/2012,2,0
-652607,6606200,St Vincents Medical Center,2800 Main St,Bridgeport,CT,6606,Unassigned Region,29999,8/31/2012,6,0
-652607,6606200,St Vincents Medical Center,2800 Main St,Bridgeport,CT,6606,Unassigned Region,29999,5/31/2014,2,0
-652608,6360200,The William W Backus Hospital,326 Washington St,Norwich,CT,6360,Unassigned Region,29999,1/31/2012,2,0
-652608,6360200,The William W Backus Hospital,326 Washington St,Norwich,CT,6360,Unassigned Region,29999,6/30/2014,2,0
 652609,26506200,West Virginia University Medical Center,Medical Center Dr,Morgantown,WV,26506,East Region,20108,2/29/2012,0,1
 652609,26506200,West Virginia University Medical Center,Medical Center Dr,Morgantown,WV,26506,East Region,20108,4/30/2012,0,1
 652609,26506200,West Virginia University Medical Center,Medical Center Dr,Morgantown,WV,26506,East Region,20108,5/31/2012,0,1
@@ -18145,17 +17593,11 @@ TG_ID,ACCOUNT_NUM,NAME,ADDRESS,CITY,STATE,ZIP,REGION,TERR,DATE,UNITS,CALLS
 652627,44307200,Akron General Medical Center,400 Wabash Ave,Akron,OH,44307,East Region,20108,7/31/2014,0,2
 652627,44307200,Akron General Medical Center,400 Wabash Ave,Akron,OH,44307,East Region,20108,8/31/2014,0,2
 652627,44307200,Akron General Medical Center,400 Wabash Ave,Akron,OH,44307,East Region,20108,9/30/2014,0,2
-652629,8901200,Robert Wood Johnson University Hospital,1 Robert Wood Johnson Pl,New Brunswick,NJ,8901,Unassigned Region,29999,8/31/2014,2,0
 652631,47374200,Reid Hospital And Healthcare Services,1100 Reid Pkwy,Richmond,IN,47374,West Region,20209,6/30/2014,0,1
 652631,47374200,Reid Hospital And Healthcare Services,1100 Reid Pkwy,Richmond,IN,47374,West Region,20209,12/31/2014,0,1
-652633,11203203,Kings County Hospital Center,451 Clarkson Ave,Brooklyn,NY,11203,Unassigned Region,29999,9/30/2012,12,0
-652643,50309202,Unitypoint Health Des Moines Iowa Methodist Medica,1200 Pleasant St,Des Moines,IA,50309,Unassigned Region,29999,7/31/2012,6,0
-652643,50309202,Unitypoint Health Des Moines Iowa Methodist Medica,1200 Pleasant St,Des Moines,IA,50309,Unassigned Region,29999,5/31/2014,6,0
 652644,15143201,Heritage Valley Sewickley,720 Blackburn Rd,Sewickley,PA,15143,East Region,20108,5/31/2012,0,1
 652644,15143201,Heritage Valley Sewickley,720 Blackburn Rd,Sewickley,PA,15143,East Region,20108,4/30/2014,2,0
 652644,15143201,Heritage Valley Sewickley,720 Blackburn Rd,Sewickley,PA,15143,East Region,20108,10/31/2014,0,1
-652645,14642200,Strong Memorial Hospital University Of Rochester,601 Elmwood Ave,Rochester,NY,14642,Unassigned Region,29999,11/30/2013,14,0
-652645,14642200,Strong Memorial Hospital University Of Rochester,601 Elmwood Ave,Rochester,NY,14642,Unassigned Region,29999,4/30/2014,8,0
 652646,2.43E+17,Upmc Mercy,1400 Locust St,Pittsburgh,PA,15219,East Region,20108,2/28/2014,0,1
 652646,2.43E+17,Upmc Mercy,1400 Locust St,Pittsburgh,PA,15219,East Region,20108,4/30/2014,6,0
 652646,2.43E+17,Upmc Mercy,1400 Locust St,Pittsburgh,PA,15219,East Region,20108,6/30/2014,0,1
@@ -18272,11 +17714,6 @@ TG_ID,ACCOUNT_NUM,NAME,ADDRESS,CITY,STATE,ZIP,REGION,TERR,DATE,UNITS,CALLS
 652662,27577200,Johnston Memorial Hospital,509 N Brightleaf Blvd,Smithfield,NC,27577,East Region,20102,6/30/2014,4,0
 652662,27577200,Johnston Memorial Hospital,509 N Brightleaf Blvd,Smithfield,NC,27577,East Region,20102,8/31/2014,10,0
 652662,27577200,Johnston Memorial Hospital,509 N Brightleaf Blvd,Smithfield,NC,27577,East Region,20102,9/30/2014,10,0
-652663,59101200,Billings Clinic Hospital,2800 10th Ave N,Billings,MT,59101,Unassigned Region,29999,6/30/2013,8,0
-652663,59101200,Billings Clinic Hospital,2800 10th Ave N,Billings,MT,59101,Unassigned Region,29999,7/31/2013,8,0
-652663,59101200,Billings Clinic Hospital,2800 10th Ave N,Billings,MT,59101,Unassigned Region,29999,4/30/2014,10,0
-652663,59101200,Billings Clinic Hospital,2800 10th Ave N,Billings,MT,59101,Unassigned Region,29999,6/30/2014,10,0
-652663,59101200,Billings Clinic Hospital,2800 10th Ave N,Billings,MT,59101,Unassigned Region,29999,9/30/2014,10,0
 652664,29169200,Lexington Medical Center,2720 Sunset Blvd,West Columbia,SC,29169,East Region,20103,1/31/2012,0,1
 652664,29169200,Lexington Medical Center,2720 Sunset Blvd,West Columbia,SC,29169,East Region,20103,2/29/2012,0,1
 652664,29169200,Lexington Medical Center,2720 Sunset Blvd,West Columbia,SC,29169,East Region,20103,3/31/2012,6,2
@@ -18544,14 +17981,6 @@ TG_ID,ACCOUNT_NUM,NAME,ADDRESS,CITY,STATE,ZIP,REGION,TERR,DATE,UNITS,CALLS
 652684,80907200,Penrose Hospital,2222 N Nevada Ave,Colorado Springs,CO,80907,West Region,20201,10/31/2013,0,2
 652684,80907200,Penrose Hospital,2222 N Nevada Ave,Colorado Springs,CO,80907,West Region,20201,11/30/2013,-12,1
 652684,80907200,Penrose Hospital,2222 N Nevada Ave,Colorado Springs,CO,80907,West Region,20201,5/31/2014,38,0
-652686,83706202,St Alphonsus Regional Medical Center,1055 N Curtis Rd,Boise,ID,83706,Unassigned Region,29999,7/31/2012,6,0
-652686,83706202,St Alphonsus Regional Medical Center,1055 N Curtis Rd,Boise,ID,83706,Unassigned Region,29999,4/30/2013,8,0
-652686,83706202,St Alphonsus Regional Medical Center,1055 N Curtis Rd,Boise,ID,83706,Unassigned Region,29999,5/31/2013,40,0
-652686,83706202,St Alphonsus Regional Medical Center,1055 N Curtis Rd,Boise,ID,83706,Unassigned Region,29999,7/31/2013,20,0
-652686,83706202,St Alphonsus Regional Medical Center,1055 N Curtis Rd,Boise,ID,83706,Unassigned Region,29999,12/31/2013,2,0
-652686,83706202,St Alphonsus Regional Medical Center,1055 N Curtis Rd,Boise,ID,83706,Unassigned Region,29999,5/31/2014,30,0
-652686,83706202,St Alphonsus Regional Medical Center,1055 N Curtis Rd,Boise,ID,83706,Unassigned Region,29999,7/31/2014,12,0
-652686,83706202,St Alphonsus Regional Medical Center,1055 N Curtis Rd,Boise,ID,83706,Unassigned Region,29999,8/31/2014,32,0
 652688,91105200,Huntington Hospital,100 W California Blvd,Pasadena,CA,91105,West Region,20206,2/29/2012,0,1
 652688,91105200,Huntington Hospital,100 W California Blvd,Pasadena,CA,91105,West Region,20206,3/31/2012,10,0
 652688,91105200,Huntington Hospital,100 W California Blvd,Pasadena,CA,91105,West Region,20206,4/30/2012,20,2
@@ -18781,7 +18210,6 @@ TG_ID,ACCOUNT_NUM,NAME,ADDRESS,CITY,STATE,ZIP,REGION,TERR,DATE,UNITS,CALLS
 652734,33613201,Florida Hospital Tampa,3100 E Fletcher Ave,Tampa,FL,33613,East Region,20105,8/31/2014,0,1
 652734,33613201,Florida Hospital Tampa,3100 E Fletcher Ave,Tampa,FL,33613,East Region,20105,9/30/2014,12,0
 652734,33613201,Florida Hospital Tampa,3100 E Fletcher Ave,Tampa,FL,33613,East Region,20105,10/31/2014,12,0
-652739,83221200,Bingham Memorial Hospital,98 Poplar St,Blackfoot,ID,83221,Unassigned Region,29999,6/30/2014,8,0
 652740,25702200,St Marys Medical Center,2900 1st Ave,Huntington,WV,25702,East Region,20108,1/31/2012,0,1
 652740,25702200,St Marys Medical Center,2900 1st Ave,Huntington,WV,25702,East Region,20108,4/30/2012,0,1
 652740,25702200,St Marys Medical Center,2900 1st Ave,Huntington,WV,25702,East Region,20108,5/31/2012,0,1
@@ -18939,7 +18367,6 @@ TG_ID,ACCOUNT_NUM,NAME,ADDRESS,CITY,STATE,ZIP,REGION,TERR,DATE,UNITS,CALLS
 652767,93405200,Sierra Vista Regional Medical Center,1010 Murray Ave,San Luis Obispo,CA,93405,West Region,20206,4/30/2012,4,0
 652767,93405200,Sierra Vista Regional Medical Center,1010 Murray Ave,San Luis Obispo,CA,93405,West Region,20206,9/30/2013,0,2
 652767,93405200,Sierra Vista Regional Medical Center,1010 Murray Ave,San Luis Obispo,CA,93405,West Region,20206,10/31/2013,0,2
-652768,48670200,Midmichigan Health,4000 Wellness Dr,Midland,MI,48670,Unassigned Region,29999,10/31/2012,4,0
 652769,77089200,Memorial Hermann Southeast Hospital,11800 Astoria Blvd,HOUSTON,TX,77089,West Region,20205,6/30/2013,2,0
 652769,77089200,Memorial Hermann Southeast Hospital,11800 Astoria Blvd,HOUSTON,TX,77089,West Region,20205,11/30/2013,0,1
 652769,77089200,Memorial Hermann Southeast Hospital,11800 Astoria Blvd,HOUSTON,TX,77089,West Region,20205,6/30/2014,2,0
@@ -18990,13 +18417,6 @@ TG_ID,ACCOUNT_NUM,NAME,ADDRESS,CITY,STATE,ZIP,REGION,TERR,DATE,UNITS,CALLS
 652782,30606200,Athens Regional Medical Center,1199 Prince Ave,Athens,GA,30606,East Region,20104,10/31/2014,2,0
 652783,33401205,Good Samaritan Medical Center,1309 N FLAGLER DR*,W PALM BEACH,FL,33401,East Region,20105,7/31/2014,4,0
 652783,33401205,Good Samaritan Medical Center,1309 N FLAGLER DR*,W PALM BEACH,FL,33401,East Region,20105,8/31/2014,0,1
-652784,53792200,University Of Wi Hospital And Clinics,600 Highland Ave,Madison,WI,53792,Unassigned Region,29999,6/30/2013,8,0
-652784,53792200,University Of Wi Hospital And Clinics,600 Highland Ave,Madison,WI,53792,Unassigned Region,29999,8/31/2013,12,0
-652785,59405200,Benefis Healthcare East Campus,1101 26th St S,Great Falls,MT,59405,Unassigned Region,29999,8/31/2012,8,0
-652785,59405200,Benefis Healthcare East Campus,1101 26th St S,Great Falls,MT,59405,Unassigned Region,29999,6/30/2013,12,0
-652785,59405200,Benefis Healthcare East Campus,1101 26th St S,Great Falls,MT,59405,Unassigned Region,29999,7/31/2013,34,0
-652785,59405200,Benefis Healthcare East Campus,1101 26th St S,Great Falls,MT,59405,Unassigned Region,29999,10/31/2013,18,0
-652785,59405200,Benefis Healthcare East Campus,1101 26th St S,Great Falls,MT,59405,Unassigned Region,29999,8/31/2014,8,0
 652786,72205207,University Of Arkansas For Medical Sciences,4301 W Markham St Ste 783,Little Rock,AR,72205,East Region,20107,4/30/2012,10,0
 652786,72205207,University Of Arkansas For Medical Sciences,4301 W Markham St Ste 783,Little Rock,AR,72205,East Region,20107,3/31/2013,0,1
 652786,72205207,University Of Arkansas For Medical Sciences,4301 W Markham St Ste 783,Little Rock,AR,72205,East Region,20107,4/30/2013,0,1
@@ -19193,9 +18613,6 @@ TG_ID,ACCOUNT_NUM,NAME,ADDRESS,CITY,STATE,ZIP,REGION,TERR,DATE,UNITS,CALLS
 652806,92029200,Palomar Medical Center West,2185 W Citracado Pkwy,Escondido,CA,92029,West Region,20206,8/31/2014,20,0
 652806,92029200,Palomar Medical Center West,2185 W Citracado Pkwy,Escondido,CA,92029,West Region,20206,9/30/2014,78,2
 652806,92029200,Palomar Medical Center West,2185 W Citracado Pkwy,Escondido,CA,92029,West Region,20206,10/31/2014,10,0
-652808,8240200,Atlanticare Regional Medical Center,65 W Jimmie Leeds Rd,Galloway,NJ,8205,Unassigned Region,29999,3/31/2012,4,0
-652808,8240200,Atlanticare Regional Medical Center,65 W Jimmie Leeds Rd,Galloway,NJ,8205,Unassigned Region,29999,3/31/2014,6,0
-652808,8240200,Atlanticare Regional Medical Center,65 W Jimmie Leeds Rd,Galloway,NJ,8205,Unassigned Region,29999,7/31/2014,4,0
 652809,33805202,Lakeland Regional Medical Center,1324 Lakeland Hills Blvd,Lakeland,FL,33805,East Region,20105,3/31/2012,40,0
 652809,33805202,Lakeland Regional Medical Center,1324 Lakeland Hills Blvd,Lakeland,FL,33805,East Region,20105,6/30/2012,46,0
 652809,33805202,Lakeland Regional Medical Center,1324 Lakeland Hills Blvd,Lakeland,FL,33805,East Region,20105,7/31/2012,10,0
@@ -19255,17 +18672,6 @@ TG_ID,ACCOUNT_NUM,NAME,ADDRESS,CITY,STATE,ZIP,REGION,TERR,DATE,UNITS,CALLS
 652811,27103200,Novant Health Forsyth Medical Center,3333 Silas Creek Pkwy,Winston Salem,NC,27103,East Region,20102,7/31/2014,4,0
 652811,27103200,Novant Health Forsyth Medical Center,3333 Silas Creek Pkwy,Winston Salem,NC,27103,East Region,20102,8/31/2014,2,0
 652811,27103200,Novant Health Forsyth Medical Center,3333 Silas Creek Pkwy,Winston Salem,NC,27103,East Region,20102,9/30/2014,4,0
-652812,12550200,St Lukes Cornwall Hospital Newburgh Campus,70 Dubois St C,Newburgh,NY,12550,Unassigned Region,29999,6/30/2012,6,0
-652812,12550200,St Lukes Cornwall Hospital Newburgh Campus,70 Dubois St C,Newburgh,NY,12550,Unassigned Region,29999,5/31/2013,6,0
-652812,12550200,St Lukes Cornwall Hospital Newburgh Campus,70 Dubois St C,Newburgh,NY,12550,Unassigned Region,29999,3/31/2014,4,0
-652812,12550200,St Lukes Cornwall Hospital Newburgh Campus,70 Dubois St C,Newburgh,NY,12550,Unassigned Region,29999,5/31/2014,2,0
-652812,12550200,St Lukes Cornwall Hospital Newburgh Campus,70 Dubois St C,Newburgh,NY,12550,Unassigned Region,29999,6/30/2014,4,0
-652812,12550200,St Lukes Cornwall Hospital Newburgh Campus,70 Dubois St C,Newburgh,NY,12550,Unassigned Region,29999,12/31/2014,4,0
-652815,2114200,Massachuetts General Hospital,55 Fruit St,Boston,MA,2114,Unassigned Region,29999,3/31/2013,2,0
-652815,2114200,Massachuetts General Hospital,55 Fruit St,Boston,MA,2114,Unassigned Region,29999,6/30/2013,4,0
-652815,2114200,Massachuetts General Hospital,55 Fruit St,Boston,MA,2114,Unassigned Region,29999,4/30/2014,4,0
-652815,2114200,Massachuetts General Hospital,55 Fruit St,Boston,MA,2114,Unassigned Region,29999,9/30/2014,2,0
-652816,6106200,Hartford Hospital,80 SEYMOUR ST*,HARTFORD,CT,6106,Unassigned Region,29999,7/31/2014,2,0
 652821,22911203,Martha Jefferson Hospital,500 Martha Jefferson Dr G231,Charlottesville,VA,22911,East Region,20101,6/30/2012,22,0
 652821,22911203,Martha Jefferson Hospital,500 Martha Jefferson Dr G231,Charlottesville,VA,22911,East Region,20101,5/31/2013,0,1
 652821,22911203,Martha Jefferson Hospital,500 Martha Jefferson Dr G231,Charlottesville,VA,22911,East Region,20101,6/30/2013,4,0
@@ -19320,10 +18726,6 @@ TG_ID,ACCOUNT_NUM,NAME,ADDRESS,CITY,STATE,ZIP,REGION,TERR,DATE,UNITS,CALLS
 652827,71913200,Saint Vincent Hot Springs,300 Werner St,Hot Springs National Park,AR,71913,East Region,20107,6/30/2014,6,0
 652827,71913200,Saint Vincent Hot Springs,300 Werner St,Hot Springs National Park,AR,71913,East Region,20107,7/31/2014,24,1
 652827,71913200,Saint Vincent Hot Springs,300 Werner St,Hot Springs National Park,AR,71913,East Region,20107,8/31/2014,10,0
-652829,57105200,Avera Mckennan Hospital And University Health Cent,1325 S Cliff Ave,Sioux Falls,SD,57105,Unassigned Region,29999,1/31/2013,16,0
-652829,57105200,Avera Mckennan Hospital And University Health Cent,1325 S Cliff Ave,Sioux Falls,SD,57105,Unassigned Region,29999,6/30/2013,24,0
-652829,57105200,Avera Mckennan Hospital And University Health Cent,1325 S Cliff Ave,Sioux Falls,SD,57105,Unassigned Region,29999,5/31/2014,12,0
-652829,57105200,Avera Mckennan Hospital And University Health Cent,1325 S Cliff Ave,Sioux Falls,SD,57105,Unassigned Region,29999,9/30/2014,8,0
 652833,87106205,Presbyterian Hospital,1100 Central Ave Se,Albuquerque,NM,87106,West Region,20207,2/29/2012,0,1
 652833,87106205,Presbyterian Hospital,1100 Central Ave Se,Albuquerque,NM,87106,West Region,20207,4/30/2012,0,6
 652833,87106205,Presbyterian Hospital,1100 Central Ave Se,Albuquerque,NM,87106,West Region,20207,5/31/2012,16,0
@@ -19490,7 +18892,6 @@ TG_ID,ACCOUNT_NUM,NAME,ADDRESS,CITY,STATE,ZIP,REGION,TERR,DATE,UNITS,CALLS
 652850,84790200,Intermountain Dixie Regional Medical Center,D,St George,UT,84790,West Region,20202,7/31/2013,48,8
 652850,84790200,Intermountain Dixie Regional Medical Center,D,St George,UT,84790,West Region,20202,8/31/2013,0,7
 652850,84790200,Intermountain Dixie Regional Medical Center,D,St George,UT,84790,West Region,20202,11/30/2013,0,1
-652851,10305203,Staten Island University Hospital North Campus,475 Seaview Ave,Staten Island,NY,10305,Unassigned Region,29999,11/30/2013,24,0
 652852,99216200,Valley Hospital And Medical Center,12606 E Mission Ave,Spokane Valley,WA,99216,West Region,20208,10/31/2014,0,1
 652854,61104200,Swedish American Medical Group,1401 E State St,Rockford,IL,61104,West Region,20209,6/30/2013,2,0
 652854,61104200,Swedish American Medical Group,1401 E State St,Rockford,IL,61104,West Region,20209,7/31/2013,2,0
@@ -19628,15 +19029,11 @@ TG_ID,ACCOUNT_NUM,NAME,ADDRESS,CITY,STATE,ZIP,REGION,TERR,DATE,UNITS,CALLS
 652872,29601202,Bon Secours St Francis,1 Saint Francis Dr,Greenville,SC,29601,East Region,20103,8/31/2013,12,0
 652872,29601202,Bon Secours St Francis,1 Saint Francis Dr,Greenville,SC,29601,East Region,20103,8/31/2014,2,0
 652872,29601202,Bon Secours St Francis,1 Saint Francis Dr,Greenville,SC,29601,East Region,20103,9/30/2014,2,0
-652873,11794200,SUNY at Stony Brook,101 Nicolls Rd,Stony Brook,NY,11794,Unassigned Region,29999,4/30/2013,4,0
 652874,89191200,Michael O'callaghan Fed Hosp,4700 N Las Vegas Blvd,North Las Vegas,NV,89030,West Region,20206,5/31/2012,0,2
 652874,89191200,Michael O'callaghan Fed Hosp,4700 N Las Vegas Blvd,North Las Vegas,NV,89030,West Region,20206,10/31/2012,0,2
 652874,89191200,Michael O'callaghan Fed Hosp,4700 N Las Vegas Blvd,North Las Vegas,NV,89030,West Region,20206,5/31/2013,12,0
 652874,89191200,Michael O'callaghan Fed Hosp,4700 N Las Vegas Blvd,North Las Vegas,NV,89030,West Region,20206,7/31/2013,0,2
 652874,89191200,Michael O'callaghan Fed Hosp,4700 N Las Vegas Blvd,North Las Vegas,NV,89030,West Region,20206,1/31/2014,0,1
-652875,2903200,Rhode Island Hospital,593 Eddy St,Providence,RI,2903,Unassigned Region,29999,7/31/2012,10,0
-652875,2903200,Rhode Island Hospital,593 Eddy St,Providence,RI,2903,Unassigned Region,29999,6/30/2013,16,0
-652875,2903200,Rhode Island Hospital,593 Eddy St,Providence,RI,2903,Unassigned Region,29999,5/31/2014,4,0
 652879,70121200,Ochsner Medical Center,1514 Jefferson Hwy,New Orleans,LA,70121,East Region,20107,2/29/2012,0,2
 652879,70121200,Ochsner Medical Center,1514 Jefferson Hwy,New Orleans,LA,70121,East Region,20107,3/31/2012,0,1
 652879,70121200,Ochsner Medical Center,1514 Jefferson Hwy,New Orleans,LA,70121,East Region,20107,6/30/2012,0,1
@@ -20210,7 +19607,6 @@ TG_ID,ACCOUNT_NUM,NAME,ADDRESS,CITY,STATE,ZIP,REGION,TERR,DATE,UNITS,CALLS
 652939,75203202,Methodist Health System Aco,1441 N Beckley Ave,Dallas,TX,75203,West Region,20203,5/31/2014,8,0
 652939,75203202,Methodist Health System Aco,1441 N Beckley Ave,Dallas,TX,75203,West Region,20203,8/31/2014,0,1
 652940,20785200,Prince Georges Hospital Center,3001 Hospital Dr,Hyattsville,MD,20785,East Region,20101,5/31/2014,18,0
-652941,53405200,Wheaton Franciscan Healthcare All Saints Spring St,3801 Spring St,Mount Pleasant,WI,53405,Unassigned Region,29999,5/31/2014,2,0
 652942,30342200,Northside Hospital,1000 Johnson Ferry Rd Ne,Atlanta,GA,30342,East Region,20104,2/29/2012,0,1
 652942,30342200,Northside Hospital,1000 Johnson Ferry Rd Ne,Atlanta,GA,30342,East Region,20104,3/31/2012,0,2
 652942,30342200,Northside Hospital,1000 Johnson Ferry Rd Ne,Atlanta,GA,30342,East Region,20104,4/30/2012,4,0
@@ -20273,9 +19669,6 @@ TG_ID,ACCOUNT_NUM,NAME,ADDRESS,CITY,STATE,ZIP,REGION,TERR,DATE,UNITS,CALLS
 652949,30905200,Eisenhower Army Med Ctr,Fort Gordon,Augusta,GA,30905,East Region,20103,4/30/2013,16,0
 652949,30905200,Eisenhower Army Med Ctr,Fort Gordon,Augusta,GA,30905,East Region,20103,10/31/2014,8,0
 652949,30905200,Eisenhower Army Med Ctr,Fort Gordon,Augusta,GA,30905,East Region,20103,11/30/2014,8,0
-652950,1199203,Baystate Medical Center,759 Chestnut St,Springfield,MA,1107,Unassigned Region,29999,8/31/2012,14,0
-652950,1199203,Baystate Medical Center,759 Chestnut St,Springfield,MA,1107,Unassigned Region,29999,9/30/2012,20,0
-652950,1199203,Baystate Medical Center,759 Chestnut St,Springfield,MA,1107,Unassigned Region,29999,6/30/2014,12,0
 652952,77598200,Clear Lake Regional Medical Center,500 W Medical Center Blvd,Webster,TX,77598,West Region,20205,5/31/2012,10,0
 652952,77598200,Clear Lake Regional Medical Center,500 W Medical Center Blvd,Webster,TX,77598,West Region,20205,6/30/2012,10,0
 652952,77598200,Clear Lake Regional Medical Center,500 W Medical Center Blvd,Webster,TX,77598,West Region,20205,1/31/2013,0,2
@@ -20299,7 +19692,6 @@ TG_ID,ACCOUNT_NUM,NAME,ADDRESS,CITY,STATE,ZIP,REGION,TERR,DATE,UNITS,CALLS
 652955,80012200,The Medical Center Of Aurora South Campus,1501 S Potomac St,Aurora,CO,80012,West Region,20201,6/30/2013,0,2
 652955,80012200,The Medical Center Of Aurora South Campus,1501 S Potomac St,Aurora,CO,80012,West Region,20201,9/30/2013,8,0
 652955,80012200,The Medical Center Of Aurora South Campus,1501 S Potomac St,Aurora,CO,80012,West Region,20201,10/31/2013,0,1
-652957,12601202,Health Quest Systems Vassar Brothers Medical Cente,45 Reade Pl,Poughkeepsie,NY,12601,Unassigned Region,29999,6/30/2012,20,0
 652958,77030212,Saint Lukes Episcopal Hospital,6720 Bertner Ave,HOUSTON,TX,77030,West Region,20205,4/30/2012,0,1
 652958,77030212,Saint Lukes Episcopal Hospital,6720 Bertner Ave,HOUSTON,TX,77030,West Region,20205,3/31/2013,0,1
 652958,77030212,Saint Lukes Episcopal Hospital,6720 Bertner Ave,HOUSTON,TX,77030,West Region,20205,9/30/2013,0,1
@@ -20375,9 +19767,6 @@ TG_ID,ACCOUNT_NUM,NAME,ADDRESS,CITY,STATE,ZIP,REGION,TERR,DATE,UNITS,CALLS
 652969,94062202,Sequoia Hospital,170 Alameda De Las Pulgas,Redwood City,CA,94062,West Region,20208,8/31/2013,8,0
 652969,94062202,Sequoia Hospital,170 Alameda De Las Pulgas,Redwood City,CA,94062,West Region,20208,6/30/2014,28,0
 652969,94062202,Sequoia Hospital,170 Alameda De Las Pulgas,Redwood City,CA,94062,West Region,20208,11/30/2014,0,4
-652970,49007207,Bronson Methodist Hospital,601 John St 42,Kalamazoo,MI,49007,Unassigned Region,29999,11/30/2012,4,0
-652970,49007207,Bronson Methodist Hospital,601 John St 42,Kalamazoo,MI,49007,Unassigned Region,29999,1/31/2013,2,0
-652970,49007207,Bronson Methodist Hospital,601 John St 42,Kalamazoo,MI,49007,Unassigned Region,29999,4/30/2013,4,0
 652973,75246200,Baylor University Medical Center,3900 Junius St,Dallas,TX,75246,West Region,20203,1/31/2012,0,1
 652973,75246200,Baylor University Medical Center,3900 Junius St,Dallas,TX,75246,West Region,20203,4/30/2012,12,0
 652973,75246200,Baylor University Medical Center,3900 Junius St,Dallas,TX,75246,West Region,20203,5/31/2012,14,0
@@ -20424,9 +19813,6 @@ TG_ID,ACCOUNT_NUM,NAME,ADDRESS,CITY,STATE,ZIP,REGION,TERR,DATE,UNITS,CALLS
 652976,30078200,Tristar Eastside Medical Center,1700 Medical Way,Snellville,GA,30078,East Region,20104,6/30/2014,26,0
 652976,30078200,Tristar Eastside Medical Center,1700 Medical Way,Snellville,GA,30078,East Region,20104,8/31/2014,4,0
 652976,30078200,Tristar Eastside Medical Center,1700 Medical Way,Snellville,GA,30078,East Region,20104,9/30/2014,28,0
-652977,83201201,Portneuf Medical Center East Campus,777 Hospital Way,Pocatello,ID,83201,Unassigned Region,29999,12/31/2012,6,0
-652977,83201201,Portneuf Medical Center East Campus,777 Hospital Way,Pocatello,ID,83201,Unassigned Region,29999,8/31/2013,8,0
-652977,83201201,Portneuf Medical Center East Campus,777 Hospital Way,Pocatello,ID,83201,Unassigned Region,29999,6/30/2014,8,0
 652981,98166200,Highline Medical Center,16251 Sylvester Rd Sw,Burien,WA,98166,West Region,20208,5/31/2013,4,0
 652982,31405200,Candler Hospital,5353 Reynolds St Ste 107,Savannah,GA,31405,East Region,20104,2/29/2012,0,1
 652982,31405200,Candler Hospital,5353 Reynolds St Ste 107,Savannah,GA,31405,East Region,20104,4/30/2012,2,0
@@ -20556,8 +19942,6 @@ TG_ID,ACCOUNT_NUM,NAME,ADDRESS,CITY,STATE,ZIP,REGION,TERR,DATE,UNITS,CALLS
 652997,66215200,Overland Park Regional Medical Center,10500 Quivira Rd,Overland Park,KS,66215,West Region,20209,1/31/2014,0,1
 652997,66215200,Overland Park Regional Medical Center,10500 Quivira Rd,Overland Park,KS,66215,West Region,20209,6/30/2014,0,2
 652997,66215200,Overland Park Regional Medical Center,10500 Quivira Rd,Overland Park,KS,66215,West Region,20209,9/30/2014,8,2
-652998,7631200,Englewood Hospital And Medical Center,350 Engle St,Englewood,NJ,7631,Unassigned Region,29999,6/30/2013,2,0
-652998,7631200,Englewood Hospital And Medical Center,350 Engle St,Englewood,NJ,7631,Unassigned Region,29999,9/30/2013,2,0
 652999,95817200,University Of California Davis Medical Center,2315 Stockton Blvd Rm 1310,Sacramento,CA,95817,West Region,20208,1/31/2012,0,1
 652999,95817200,University Of California Davis Medical Center,2315 Stockton Blvd Rm 1310,Sacramento,CA,95817,West Region,20208,3/31/2012,0,3
 652999,95817200,University Of California Davis Medical Center,2315 Stockton Blvd Rm 1310,Sacramento,CA,95817,West Region,20208,5/31/2012,0,2
@@ -20575,9 +19959,6 @@ TG_ID,ACCOUNT_NUM,NAME,ADDRESS,CITY,STATE,ZIP,REGION,TERR,DATE,UNITS,CALLS
 652999,95817200,University Of California Davis Medical Center,2315 Stockton Blvd Rm 1310,Sacramento,CA,95817,West Region,20208,6/30/2014,0,1
 652999,95817200,University Of California Davis Medical Center,2315 Stockton Blvd Rm 1310,Sacramento,CA,95817,West Region,20208,7/31/2014,0,1
 652999,95817200,University Of California Davis Medical Center,2315 Stockton Blvd Rm 1310,Sacramento,CA,95817,West Region,20208,10/31/2014,0,1
-653000,48912202,Sparrow Hospital,1215 E Michigan Ave,Lansing,MI,48912,Unassigned Region,29999,5/31/2012,4,0
-653000,48912202,Sparrow Hospital,1215 E Michigan Ave,Lansing,MI,48912,Unassigned Region,29999,12/31/2012,2,0
-653000,48912202,Sparrow Hospital,1215 E Michigan Ave,Lansing,MI,48912,Unassigned Region,29999,9/30/2014,4,0
 653001,16550200,Upmc Hamot,201 State St,Erie,PA,16550,East Region,20108,6/30/2013,0,1
 653001,16550200,Upmc Hamot,201 State St,Erie,PA,16550,East Region,20108,2/28/2014,0,1
 653001,16550200,Upmc Hamot,201 State St,Erie,PA,16550,East Region,20108,10/31/2014,0,2
@@ -20777,7 +20158,6 @@ TG_ID,ACCOUNT_NUM,NAME,ADDRESS,CITY,STATE,ZIP,REGION,TERR,DATE,UNITS,CALLS
 653019,32114200,Halifax Health Medical Center Of Daytona Beach,303 N Clyde Morris Blvd,Daytona Beach,FL,32114,East Region,20105,1/31/2014,0,1
 653019,32114200,Halifax Health Medical Center Of Daytona Beach,303 N Clyde Morris Blvd,Daytona Beach,FL,32114,East Region,20105,9/30/2014,16,0
 653019,32114200,Halifax Health Medical Center Of Daytona Beach,303 N Clyde Morris Blvd,Daytona Beach,FL,32114,East Region,20105,10/31/2014,0,1
-653020,10549200,Northern Westchester Hospital Center,400 E Main St,Mount Kisco,NY,10549,Unassigned Region,29999,7/31/2012,6,0
 653023,85251201,Scottsdale Healthcare Osborn,7400 E Osborn Rd,Scottsdale,AZ,85251,West Region,20202,1/31/2012,0,1
 653023,85251201,Scottsdale Healthcare Osborn,7400 E Osborn Rd,Scottsdale,AZ,85251,West Region,20202,3/31/2012,10,0
 653023,85251201,Scottsdale Healthcare Osborn,7400 E Osborn Rd,Scottsdale,AZ,85251,West Region,20202,4/30/2012,12,0
@@ -20955,10 +20335,6 @@ TG_ID,ACCOUNT_NUM,NAME,ADDRESS,CITY,STATE,ZIP,REGION,TERR,DATE,UNITS,CALLS
 653040,74104201,Hillcrest Medical Center,1120 S Utica Ave,Tulsa,OK,74104,West Region,20201,8/31/2014,18,1
 653040,74104201,Hillcrest Medical Center,1120 S Utica Ave,Tulsa,OK,74104,West Region,20201,9/30/2014,4,2
 653040,74104201,Hillcrest Medical Center,1120 S Utica Ave,Tulsa,OK,74104,West Region,20201,11/30/2014,0,2
-653041,83404200,Eastern Idaho Regional Medical Center,3100 Channing Way,Idaho Falls,ID,83404,Unassigned Region,29999,6/30/2013,12,0
-653041,83404200,Eastern Idaho Regional Medical Center,3100 Channing Way,Idaho Falls,ID,83404,Unassigned Region,29999,8/31/2013,24,0
-653041,83404200,Eastern Idaho Regional Medical Center,3100 Channing Way,Idaho Falls,ID,83404,Unassigned Region,29999,10/31/2013,-6,0
-653041,83404200,Eastern Idaho Regional Medical Center,3100 Channing Way,Idaho Falls,ID,83404,Unassigned Region,29999,5/31/2014,8,0
 653042,97301203,Salem Hospital,665 Winter St Se,Salem,OR,97301,West Region,20208,12/31/2014,0,1
 653044,60005200,Northwest Community Hospital,800 W Central Rd,Arlington Heights,IL,60005,West Region,20209,5/31/2012,2,0
 653045,37923200,Fort Sanders Parkwest Medical Center,9352 Park West Blvd,Knoxville,TN,37923,East Region,20102,6/30/2012,4,0
@@ -20976,16 +20352,12 @@ TG_ID,ACCOUNT_NUM,NAME,ADDRESS,CITY,STATE,ZIP,REGION,TERR,DATE,UNITS,CALLS
 653046,65201200,Boone Hospital Center,1600 E Broadway,Columbia,MO,65201,West Region,20209,5/31/2014,2,0
 653046,65201200,Boone Hospital Center,1600 E Broadway,Columbia,MO,65201,West Region,20209,6/30/2014,0,2
 653046,65201200,Boone Hospital Center,1600 E Broadway,Columbia,MO,65201,West Region,20209,8/31/2014,0,2
-653047,11373200,Elmhurst Hospital Center,7901 Broadway Ste A1-9,Elmhurst,NY,11373,Unassigned Region,29999,1/31/2013,4,0
-653047,11373200,Elmhurst Hospital Center,7901 Broadway Ste A1-9,Elmhurst,NY,11373,Unassigned Region,29999,8/31/2013,2,0
 653048,19001200,Abington Memorial Hospital,1200 Old York Rd,Abington,PA,19001,East Region,20108,2/29/2012,0,1
-653049,49855201,Marquette General Health System,580 W College Ave,Marquette,MI,49855,Unassigned Region,29999,3/31/2012,2,0
 653050,33136201,Jackson Memorial Hospital,1611 Nw 12th Ave,Miami,FL,33136,East Region,20105,6/30/2013,12,0
 653050,33136201,Jackson Memorial Hospital,1611 Nw 12th Ave,Miami,FL,33136,East Region,20105,4/30/2014,0,1
 653050,33136201,Jackson Memorial Hospital,1611 Nw 12th Ave,Miami,FL,33136,East Region,20105,7/31/2014,8,0
 653050,33136201,Jackson Memorial Hospital,1611 Nw 12th Ave,Miami,FL,33136,East Region,20105,8/31/2014,16,1
 653050,33136201,Jackson Memorial Hospital,1611 Nw 12th Ave,Miami,FL,33136,East Region,20105,12/31/2014,0,1
-653051,4102202,Maine Medical Center,22 Bramhall St,Portland,ME,4102,Unassigned Region,29999,6/30/2013,8,0
 653052,21202201,Mercy Medical Center,301 Saint Paul St,Baltimore,MD,21202,East Region,20101,2/28/2014,0,1
 653055,30120200,Cartersville Medical Center,960 Joe Frank Harris Pkwy Se,Cartersville,GA,30120,East Region,20104,1/31/2012,0,1
 653055,30120200,Cartersville Medical Center,960 Joe Frank Harris Pkwy Se,Cartersville,GA,30120,East Region,20104,4/30/2012,0,3
@@ -21178,11 +20550,6 @@ TG_ID,ACCOUNT_NUM,NAME,ADDRESS,CITY,STATE,ZIP,REGION,TERR,DATE,UNITS,CALLS
 653077,33881200,Winter Haven Hospital,200 Avenue F Ne,Winter Haven,FL,33881,East Region,20105,12/31/2014,0,1
 653078,45219206,Uc Health University Hospital,234 Goodman St Ste 5300,Cincinnati,OH,45219,East Region,20108,9/30/2012,14,0
 653078,45219206,Uc Health University Hospital,234 Goodman St Ste 5300,Cincinnati,OH,45219,East Region,20108,9/30/2014,8,0
-653079,1655200,University Of Massachusetts Medical Center,55 Lake Ave N,Worcester,MA,1655,Unassigned Region,29999,9/30/2012,6,0
-653079,1655200,University Of Massachusetts Medical Center,55 Lake Ave N,Worcester,MA,1655,Unassigned Region,29999,10/31/2012,8,0
-653079,1655200,University Of Massachusetts Medical Center,55 Lake Ave N,Worcester,MA,1655,Unassigned Region,29999,5/31/2013,6,0
-653079,1655200,University Of Massachusetts Medical Center,55 Lake Ave N,Worcester,MA,1655,Unassigned Region,29999,5/31/2014,8,0
-653079,1655200,University Of Massachusetts Medical Center,55 Lake Ave N,Worcester,MA,1655,Unassigned Region,29999,6/30/2014,6,0
 653081,17033200,Pennsylvania State Hershey Medical Center,500 University Dr Ste 1200,Hershey,PA,17033,East Region,20108,4/30/2012,0,1
 653081,17033200,Pennsylvania State Hershey Medical Center,500 University Dr Ste 1200,Hershey,PA,17033,East Region,20108,5/31/2012,0,1
 653081,17033200,Pennsylvania State Hershey Medical Center,500 University Dr Ste 1200,Hershey,PA,17033,East Region,20108,6/30/2012,6,0
@@ -21259,9 +20626,6 @@ TG_ID,ACCOUNT_NUM,NAME,ADDRESS,CITY,STATE,ZIP,REGION,TERR,DATE,UNITS,CALLS
 653091,85364200,Yuma Regional Medical Center,2400 S Avenue A,Yuma,AZ,85364,West Region,20202,8/31/2014,0,1
 653091,85364200,Yuma Regional Medical Center,2400 S Avenue A,Yuma,AZ,85364,West Region,20202,9/30/2014,52,0
 653091,85364200,Yuma Regional Medical Center,2400 S Avenue A,Yuma,AZ,85364,West Region,20202,10/31/2014,54,0
-653092,49503201,Spectrum Health Butterworth,100 Michigan St Ne,Grand Rapids,MI,49503,Unassigned Region,29999,3/31/2014,6,0
-653092,49503201,Spectrum Health Butterworth,100 Michigan St Ne,Grand Rapids,MI,49503,Unassigned Region,29999,6/30/2014,6,0
-653092,49503201,Spectrum Health Butterworth,100 Michigan St Ne,Grand Rapids,MI,49503,Unassigned Region,29999,9/30/2014,6,0
 653093,77070200,Houston Methodist Willowbrook Hospital,18220 State Highway 249,HOUSTON,TX,77070,West Region,20205,2/29/2012,0,2
 653093,77070200,Houston Methodist Willowbrook Hospital,18220 State Highway 249,HOUSTON,TX,77070,West Region,20205,3/31/2012,0,2
 653093,77070200,Houston Methodist Willowbrook Hospital,18220 State Highway 249,HOUSTON,TX,77070,West Region,20205,4/30/2012,20,0
@@ -21394,8 +20758,6 @@ TG_ID,ACCOUNT_NUM,NAME,ADDRESS,CITY,STATE,ZIP,REGION,TERR,DATE,UNITS,CALLS
 653117,23116200,Memorial Regional Medical Center,8260 Atlee Rd,Mechanicsville,VA,23116,East Region,20101,9/30/2014,0,4
 653117,23116200,Memorial Regional Medical Center,8260 Atlee Rd,Mechanicsville,VA,23116,East Region,20101,10/31/2014,0,4
 653117,23116200,Memorial Regional Medical Center,8260 Atlee Rd,Mechanicsville,VA,23116,East Region,20101,11/30/2014,0,3
-653118,12601201,St Francis Hospital,241 North Rd,Poughkeepsie,NY,12601,Unassigned Region,29999,11/30/2012,4,0
-653118,12601201,St Francis Hospital,241 North Rd,Poughkeepsie,NY,12601,Unassigned Region,29999,9/30/2013,8,0
 653119,74136200,St Francis Hospital,6161 S Yale Ave,Tulsa,OK,74136,West Region,20201,3/31/2012,78,0
 653119,74136200,St Francis Hospital,6161 S Yale Ave,Tulsa,OK,74136,West Region,20201,4/30/2012,64,0
 653119,74136200,St Francis Hospital,6161 S Yale Ave,Tulsa,OK,74136,West Region,20201,5/31/2012,30,1
@@ -21454,14 +20816,11 @@ TG_ID,ACCOUNT_NUM,NAME,ADDRESS,CITY,STATE,ZIP,REGION,TERR,DATE,UNITS,CALLS
 654174,91505201,Providence Saint Joseph Medical Center,501 S Buena Vista St,Burbank,CA,91505,West Region,20206,12/31/2012,-16,0
 654174,91505201,Providence Saint Joseph Medical Center,501 S Buena Vista St,Burbank,CA,91505,West Region,20206,11/30/2013,0,2
 654176,19096200,Lankenau Medical Center Rosemarey D Casey,100 E Lancaster Ave Ste 53,Wynnewood,PA,19096,East Region,20108,3/31/2013,0,2
-654179,3756200,Dartmouth Hitchcock Medical Center,1 Medical Center Dr,Lebanon,NH,3756,Unassigned Region,29999,6/30/2013,18,0
-654179,3756200,Dartmouth Hitchcock Medical Center,1 Medical Center Dr,Lebanon,NH,3756,Unassigned Region,29999,7/31/2013,10,0
 654180,95124200,Good Samaritan Hospital,2425 Samaritan Dr,San Jose,CA,95124,West Region,20208,8/31/2012,0,1
 654180,95124200,Good Samaritan Hospital,2425 Samaritan Dr,San Jose,CA,95124,West Region,20208,4/30/2013,10,0
 654180,95124200,Good Samaritan Hospital,2425 Samaritan Dr,San Jose,CA,95124,West Region,20208,4/30/2014,4,0
 654180,95124200,Good Samaritan Hospital,2425 Samaritan Dr,San Jose,CA,95124,West Region,20208,7/31/2014,6,0
 654180,95124200,Good Samaritan Hospital,2425 Samaritan Dr,San Jose,CA,95124,West Region,20208,9/30/2014,-8,0
-654182,7666200,Holy Name Hospital,718 Teaneck Rd,Teaneck,NJ,7666,Unassigned Region,29999,6/30/2013,4,0
 654185,99204201,Providence Sacred Heart Medical Center And Childre,101 W 8th Ave,Spokane,WA,99204,West Region,20208,1/31/2013,0,1
 654185,99204201,Providence Sacred Heart Medical Center And Childre,101 W 8th Ave,Spokane,WA,99204,West Region,20208,2/28/2013,0,1
 654185,99204201,Providence Sacred Heart Medical Center And Childre,101 W 8th Ave,Spokane,WA,99204,West Region,20208,5/31/2013,12,0
@@ -21586,8 +20945,6 @@ TG_ID,ACCOUNT_NUM,NAME,ADDRESS,CITY,STATE,ZIP,REGION,TERR,DATE,UNITS,CALLS
 654201,95819201,Mercy General Hospital,4001 J St,Sacramento,CA,95819,West Region,20208,8/31/2014,0,1
 654203,60201201,Northshore University Health System,1301 Central St,Evanston,IL,60201,West Region,20209,5/31/2014,2,0
 654203,60201201,Northshore University Health System,1301 Central St,Evanston,IL,60201,West Region,20209,7/31/2014,-2,0
-654209,48073200,William Beaumont Hospital,3601 W 13 Mile Rd,Royal Oak,MI,48073,Unassigned Region,29999,5/31/2012,4,0
-654209,48073200,William Beaumont Hospital,3601 W 13 Mile Rd,Royal Oak,MI,48073,Unassigned Region,29999,9/30/2013,22,0
 654280,44483201,Trumbull Memorial Hospital,1350 E Market St Fl 9,Warren,OH,44483,East Region,20108,4/30/2014,0,1
 654281,28112200,Carolinas Medical Center Union,600 Hospital Dr,Monroe,NC,28112,East Region,20103,1/31/2012,0,2
 654281,28112200,Carolinas Medical Center Union,600 Hospital Dr,Monroe,NC,28112,East Region,20103,2/29/2012,0,2
@@ -21742,7 +21099,6 @@ TG_ID,ACCOUNT_NUM,NAME,ADDRESS,CITY,STATE,ZIP,REGION,TERR,DATE,UNITS,CALLS
 654293,94040200,El Camino Hospital,2500 Grant Rd,Mountain View,CA,94040,West Region,20208,6/30/2014,4,0
 654293,94040200,El Camino Hospital,2500 Grant Rd,Mountain View,CA,94040,West Region,20208,9/30/2014,4,0
 654293,94040200,El Camino Hospital,2500 Grant Rd,Mountain View,CA,94040,West Region,20208,11/30/2014,0,1
-654294,6511201,Yale New Haven Hospital Saint Raphael Campus,1450 Chapel St,New Haven,CT,6511,Unassigned Region,29999,7/31/2012,4,0
 654296,30912200,Georgia Regents Medical Center,1120 15th St,Augusta,GA,30912,East Region,20103,2/29/2012,0,2
 654296,30912200,Georgia Regents Medical Center,1120 15th St,Augusta,GA,30912,East Region,20103,4/30/2012,6,0
 654296,30912200,Georgia Regents Medical Center,1120 15th St,Augusta,GA,30912,East Region,20103,5/31/2012,0,2
@@ -21763,11 +21119,6 @@ TG_ID,ACCOUNT_NUM,NAME,ADDRESS,CITY,STATE,ZIP,REGION,TERR,DATE,UNITS,CALLS
 654296,30912200,Georgia Regents Medical Center,1120 15th St,Augusta,GA,30912,East Region,20103,8/31/2014,8,1
 654296,30912200,Georgia Regents Medical Center,1120 15th St,Augusta,GA,30912,East Region,20103,9/30/2014,8,1
 654296,30912200,Georgia Regents Medical Center,1120 15th St,Augusta,GA,30912,East Region,20103,10/31/2014,28,1
-654297,58501200,Sanford Health,300 N 7th St,Bismarck,ND,58501,Unassigned Region,29999,8/31/2013,12,0
-654297,58501200,Sanford Health,300 N 7th St,Bismarck,ND,58501,Unassigned Region,29999,6/30/2014,4,0
-654297,58501200,Sanford Health,300 N 7th St,Bismarck,ND,58501,Unassigned Region,29999,9/30/2014,28,0
-654300,48154200,St Mary Mercy Livonia,36475 5 Mile Rd,Livonia,MI,48154,Unassigned Region,29999,6/30/2012,2,0
-654300,48154200,St Mary Mercy Livonia,36475 5 Mile Rd,Livonia,MI,48154,Unassigned Region,29999,11/30/2012,2,0
 654301,76104203,John Peter Smith Hospital Jps Health Network,1500 S Main St,Fort Worth,TX,76104,West Region,20203,3/31/2012,0,2
 654301,76104203,John Peter Smith Hospital Jps Health Network,1500 S Main St,Fort Worth,TX,76104,West Region,20203,6/30/2012,12,0
 654301,76104203,John Peter Smith Hospital Jps Health Network,1500 S Main St,Fort Worth,TX,76104,West Region,20203,9/30/2012,20,0
@@ -21802,10 +21153,6 @@ TG_ID,ACCOUNT_NUM,NAME,ADDRESS,CITY,STATE,ZIP,REGION,TERR,DATE,UNITS,CALLS
 654305,80124201,Sky Ridge Medical Center,10101 Ridgegate Pkwy,Lone Tree,CO,80124,West Region,20201,11/30/2013,0,1
 654305,80124201,Sky Ridge Medical Center,10101 Ridgegate Pkwy,Lone Tree,CO,80124,West Region,20201,12/31/2013,0,1
 654305,80124201,Sky Ridge Medical Center,10101 Ridgegate Pkwy,Lone Tree,CO,80124,West Region,20201,8/31/2014,12,0
-654307,57105206,Sanford Health At Sanford Usd Medical Center Sioux,1305 W 18th St,Sioux Falls,SD,57105,Unassigned Region,29999,8/31/2012,4,0
-654307,57105206,Sanford Health At Sanford Usd Medical Center Sioux,1305 W 18th St,Sioux Falls,SD,57105,Unassigned Region,29999,1/31/2013,12,0
-654307,57105206,Sanford Health At Sanford Usd Medical Center Sioux,1305 W 18th St,Sioux Falls,SD,57105,Unassigned Region,29999,4/30/2014,2,0
-654307,57105206,Sanford Health At Sanford Usd Medical Center Sioux,1305 W 18th St,Sioux Falls,SD,57105,Unassigned Region,29999,8/31/2014,6,0
 654308,63131200,Missouri Baptist Medical Center,3015 N Ballas Rd,Saint Louis,MO,63131,West Region,20209,2/29/2012,0,2
 654308,63131200,Missouri Baptist Medical Center,3015 N Ballas Rd,Saint Louis,MO,63131,West Region,20209,3/31/2012,0,1
 654308,63131200,Missouri Baptist Medical Center,3015 N Ballas Rd,Saint Louis,MO,63131,West Region,20209,5/31/2012,0,1
@@ -21861,7 +21208,6 @@ TG_ID,ACCOUNT_NUM,NAME,ADDRESS,CITY,STATE,ZIP,REGION,TERR,DATE,UNITS,CALLS
 654362,18103205,Lehigh Valley Hospital And Health Network,1200 S Cedar Crest Blvd,Allentown,PA,18103,East Region,20108,5/31/2014,0,2
 654362,18103205,Lehigh Valley Hospital And Health Network,1200 S Cedar Crest Blvd,Allentown,PA,18103,East Region,20108,6/30/2014,-20,0
 654362,18103205,Lehigh Valley Hospital And Health Network,1200 S Cedar Crest Blvd,Allentown,PA,18103,East Region,20108,10/31/2014,0,2
-654365,7450200,The Valley Hospital,223 N Van Dien Ave,Ridgewood,NJ,7450,Unassigned Region,29999,2/28/2014,6,0
 654373,24014200,Carilion Roanoke Memorial Hospital,1906 Belleview Ave Se,Roanoke,VA,24014,East Region,20101,6/30/2012,24,0
 654373,24014200,Carilion Roanoke Memorial Hospital,1906 Belleview Ave Se,Roanoke,VA,24014,East Region,20101,9/30/2012,4,0
 654373,24014200,Carilion Roanoke Memorial Hospital,1906 Belleview Ave Se,Roanoke,VA,24014,East Region,20101,5/31/2013,0,1
@@ -22120,9 +21466,6 @@ TG_ID,ACCOUNT_NUM,NAME,ADDRESS,CITY,STATE,ZIP,REGION,TERR,DATE,UNITS,CALLS
 654564,94609203,Alta Bates Summit Medical Center Summit South Camp,350 Hawthorne Ave,Oakland,CA,94609,West Region,20208,6/30/2013,6,0
 654564,94609203,Alta Bates Summit Medical Center Summit South Camp,350 Hawthorne Ave,Oakland,CA,94609,West Region,20208,6/30/2014,2,0
 654566,97477251,SACRED HEART MED CTR DC,123 INTERNATIONAL WAY,Springfield,OR,97477,West Region,20208,5/31/2014,6,0
-654658,8103201,Cooper University Hospital,1 Cooper Plz,Camden,NJ,8103,Unassigned Region,29999,1/31/2012,8,0
-654658,8103201,Cooper University Hospital,1 Cooper Plz,Camden,NJ,8103,Unassigned Region,29999,7/31/2014,12,0
-654658,8103201,Cooper University Hospital,1 Cooper Plz,Camden,NJ,8103,Unassigned Region,29999,11/30/2014,8,0
 654691,77340200,Huntsville Memorial Hospital,PO Box 4001,Huntsville,TX,77342,West Region,20205,2/29/2012,0,1
 654691,77340200,Huntsville Memorial Hospital,PO Box 4001,Huntsville,TX,77342,West Region,20205,3/31/2012,12,0
 654691,77340200,Huntsville Memorial Hospital,PO Box 4001,Huntsville,TX,77342,West Region,20205,4/30/2012,20,2
@@ -22198,15 +21541,6 @@ TG_ID,ACCOUNT_NUM,NAME,ADDRESS,CITY,STATE,ZIP,REGION,TERR,DATE,UNITS,CALLS
 658244,001G000001fL910IAC,Thomas Jefferson University Hospital,111 S 11th St,Philadelphia,PA,19107,East Region,20108,9/30/2013,0,1
 658244,001G000001fL910IAC,Thomas Jefferson University Hospital,111 S 11th St,Philadelphia,PA,19107,East Region,20108,3/31/2014,0,1
 658244,001G000001fL910IAC,Thomas Jefferson University Hospital,111 S 11th St,Philadelphia,PA,19107,East Region,20108,8/31/2014,0,1
-658245,59101201,St Vincent Hospital And Health Center,1233 N 30th St,Billings,MT,59101,Unassigned Region,29999,6/30/2012,6,0
-658245,59101201,St Vincent Hospital And Health Center,1233 N 30th St,Billings,MT,59101,Unassigned Region,29999,7/31/2012,18,0
-658245,59101201,St Vincent Hospital And Health Center,1233 N 30th St,Billings,MT,59101,Unassigned Region,29999,8/31/2012,20,0
-658245,59101201,St Vincent Hospital And Health Center,1233 N 30th St,Billings,MT,59101,Unassigned Region,29999,6/30/2013,18,0
-658245,59101201,St Vincent Hospital And Health Center,1233 N 30th St,Billings,MT,59101,Unassigned Region,29999,7/31/2013,8,0
-658245,59101201,St Vincent Hospital And Health Center,1233 N 30th St,Billings,MT,59101,Unassigned Region,29999,8/31/2013,8,0
-658245,59101201,St Vincent Hospital And Health Center,1233 N 30th St,Billings,MT,59101,Unassigned Region,29999,12/31/2013,-8,0
-658245,59101201,St Vincent Hospital And Health Center,1233 N 30th St,Billings,MT,59101,Unassigned Region,29999,3/31/2014,8,0
-658245,59101201,St Vincent Hospital And Health Center,1233 N 30th St,Billings,MT,59101,Unassigned Region,29999,8/31/2014,10,0
 658249,84132200,University Of Utah Hospital And Clinics,50 N Medical Dr,Salt Lake City,UT,84132,West Region,20202,4/30/2012,26,0
 658249,84132200,University Of Utah Hospital And Clinics,50 N Medical Dr,Salt Lake City,UT,84132,West Region,20202,5/31/2012,32,0
 658249,84132200,University Of Utah Hospital And Clinics,50 N Medical Dr,Salt Lake City,UT,84132,West Region,20202,7/31/2012,32,0
@@ -22234,7 +21568,6 @@ TG_ID,ACCOUNT_NUM,NAME,ADDRESS,CITY,STATE,ZIP,REGION,TERR,DATE,UNITS,CALLS
 658256,18840200,Robert Packer Hospital,1 Guthrie Sq,Sayre,PA,18840,East Region,20108,8/31/2013,0,1
 658256,18840200,Robert Packer Hospital,1 Guthrie Sq,Sayre,PA,18840,East Region,20108,3/31/2014,24,1
 658256,18840200,Robert Packer Hospital,1 Guthrie Sq,Sayre,PA,18840,East Region,20108,4/30/2014,-24,0
-658257,6902200,Stamford Hospital,30 Shelburne Rd,Stamford,CT,6902,Unassigned Region,29999,6/30/2012,8,0
 658259,75390201,Ut Southwestern Hospitals,5909 Harry Hines Blvd Ste 100,Dallas,TX,75235,West Region,20203,2/29/2012,0,1
 658259,75390201,Ut Southwestern Hospitals,5909 Harry Hines Blvd Ste 100,Dallas,TX,75235,West Region,20203,8/31/2013,0,1
 658262,91010200,City Of Hope National Medical Center,1500 Duarte Rd Rm 1204,Duarte,CA,91010,West Region,20206,11/30/2013,0,1
@@ -22284,7 +21617,6 @@ TG_ID,ACCOUNT_NUM,NAME,ADDRESS,CITY,STATE,ZIP,REGION,TERR,DATE,UNITS,CALLS
 658334,40503200,Central Baptist Hospital,1740 Nicholasville Rd,Lexington,KY,40503,East Region,20103,1/31/2014,0,1
 658334,40503200,Central Baptist Hospital,1740 Nicholasville Rd,Lexington,KY,40503,East Region,20103,2/28/2014,10,0
 658334,40503200,Central Baptist Hospital,1740 Nicholasville Rd,Lexington,KY,40503,East Region,20103,4/30/2014,0,2
-658336,83814200,Kootenai Medical Center,2003 Kootenai Health Way,Coeur D Alene,ID,83814,Unassigned Region,29999,8/31/2014,8,0
 658338,64111200,St Lukes Hospital,4401 Wornall Rd,Kansas City,MO,64111,West Region,20209,2/29/2012,0,1
 658338,64111200,St Lukes Hospital,4401 Wornall Rd,Kansas City,MO,64111,West Region,20209,5/31/2012,0,1
 658338,64111200,St Lukes Hospital,4401 Wornall Rd,Kansas City,MO,64111,West Region,20209,11/30/2012,0,1
@@ -22310,11 +21642,6 @@ TG_ID,ACCOUNT_NUM,NAME,ADDRESS,CITY,STATE,ZIP,REGION,TERR,DATE,UNITS,CALLS
 658354,78061200,Frio Regional Hospital,200 S Interstate 35,Pearsall,TX,78061,West Region,20204,8/31/2012,10,0
 658356,94158201,Ucsf Medical Center,8 Koret Way,San Francisco,CA,94143,West Region,20208,9/30/2013,0,1
 658356,94158201,Ucsf Medical Center,8 Koret Way,San Francisco,CA,94143,West Region,20208,11/30/2013,0,2
-658358,52242200,University Of Iowa Hospitals And Clinics,200 Hawkins Dr,Iowa City,IA,52242,Unassigned Region,29999,5/31/2012,4,0
-658358,52242200,University Of Iowa Hospitals And Clinics,200 Hawkins Dr,Iowa City,IA,52242,Unassigned Region,29999,1/31/2013,12,0
-658358,52242200,University Of Iowa Hospitals And Clinics,200 Hawkins Dr,Iowa City,IA,52242,Unassigned Region,29999,10/31/2013,6,0
-658358,52242200,University Of Iowa Hospitals And Clinics,200 Hawkins Dr,Iowa City,IA,52242,Unassigned Region,29999,5/31/2014,14,0
-658358,52242200,University Of Iowa Hospitals And Clinics,200 Hawkins Dr,Iowa City,IA,52242,Unassigned Region,29999,6/30/2014,4,0
 658361,28105200,Novant Health Matthews Medical Center,1500 Matthews Township Pkwy,Matthews,NC,28105,East Region,20103,1/31/2012,0,2
 658361,28105200,Novant Health Matthews Medical Center,1500 Matthews Township Pkwy,Matthews,NC,28105,East Region,20103,2/29/2012,0,2
 658361,28105200,Novant Health Matthews Medical Center,1500 Matthews Township Pkwy,Matthews,NC,28105,East Region,20103,3/31/2012,0,2
@@ -22474,6 +21801,679 @@ TG_ID,ACCOUNT_NUM,NAME,ADDRESS,CITY,STATE,ZIP,REGION,TERR,DATE,UNITS,CALLS
 658387,001G000001nKILaIAO,Northwest Medical Center,6200 N La Cholla Blvd,Tucson,AZ,85741,West Region,20202,7/31/2014,0,5
 658387,001G000001nKILaIAO,Northwest Medical Center,6200 N La Cholla Blvd,Tucson,AZ,85741,West Region,20202,9/30/2014,0,1
 658387,001G000001nKILaIAO,Northwest Medical Center,6200 N La Cholla Blvd,Tucson,AZ,85741,West Region,20202,10/31/2014,0,1
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
 ,001A000000cnTGWIA2,Moses Cone Hospital Outpatient Pharmacy,1131d N Church St,Greensboro,NC,27401,East Region,20102,1/31/2012,0,2
 ,001A000000cnTGWIA2,Moses Cone Hospital Outpatient Pharmacy,1131d N Church St,Greensboro,NC,27401,East Region,20102,2/29/2012,0,1
 ,001A000000cnTGWIA2,Moses Cone Hospital Outpatient Pharmacy,1131d N Church St,Greensboro,NC,27401,East Region,20102,3/31/2012,0,4
@@ -22578,18 +22578,18 @@ TG_ID,ACCOUNT_NUM,NAME,ADDRESS,CITY,STATE,ZIP,REGION,TERR,DATE,UNITS,CALLS
 ,001A000000eSnagIAC,Arkansas Poison And Information Center,4301 W Markham St 522-2,Little Rock,AR,72205,East Region,20107,12/31/2013,0,1
 ,001A000000eSnagIAC,Arkansas Poison And Information Center,4301 W Markham St 522-2,Little Rock,AR,72205,East Region,20107,2/28/2014,0,1
 ,001A000000eSnagIAC,Arkansas Poison And Information Center,4301 W Markham St 522-2,Little Rock,AR,72205,East Region,20107,11/30/2014,0,1
-,001A000000eSnakIAC,California Poison Control System - San Diego Division,University of California San Diego Medical Center,San Diego,CA,(blank),(blank),(blank),1/31/2012,0,1
-,001A000000eSnakIAC,California Poison Control System - San Diego Division,University of California San Diego Medical Center,San Diego,CA,(blank),(blank),(blank),2/29/2012,0,1
-,001A000000eSnakIAC,California Poison Control System - San Diego Division,University of California San Diego Medical Center,San Diego,CA,(blank),(blank),(blank),3/31/2012,0,1
-,001A000000eSnakIAC,California Poison Control System - San Diego Division,University of California San Diego Medical Center,San Diego,CA,(blank),(blank),(blank),4/30/2012,0,1
-,001A000000eSnakIAC,California Poison Control System - San Diego Division,University of California San Diego Medical Center,San Diego,CA,(blank),(blank),(blank),5/31/2012,0,1
-,001A000000eSnakIAC,California Poison Control System - San Diego Division,University of California San Diego Medical Center,San Diego,CA,(blank),(blank),(blank),6/30/2012,0,1
-,001A000000eSnakIAC,California Poison Control System - San Diego Division,University of California San Diego Medical Center,San Diego,CA,(blank),(blank),(blank),8/31/2012,0,1
-,001A000000eSnakIAC,California Poison Control System - San Diego Division,University of California San Diego Medical Center,San Diego,CA,(blank),(blank),(blank),11/30/2012,0,1
-,001A000000eSnakIAC,California Poison Control System - San Diego Division,University of California San Diego Medical Center,San Diego,CA,(blank),(blank),(blank),11/30/2013,0,1
-,001A000000eSnakIAC,California Poison Control System - San Diego Division,University of California San Diego Medical Center,San Diego,CA,(blank),(blank),(blank),5/31/2014,0,1
-,001A000000eSnakIAC,California Poison Control System - San Diego Division,University of California San Diego Medical Center,San Diego,CA,(blank),(blank),(blank),7/31/2014,0,1
-,001A000000eSnakIAC,California Poison Control System - San Diego Division,University of California San Diego Medical Center,San Diego,CA,(blank),(blank),(blank),11/30/2014,0,1
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
 ,001A000000eSnasIAC,Florida Poison Information Center - Jacksonville,655 W 8th st,Jacksonville,FL,32209,East Region,20105,3/31/2012,0,1
 ,001A000000eSnasIAC,Florida Poison Information Center - Jacksonville,655 W 8th st,Jacksonville,FL,32209,East Region,20105,5/31/2012,0,1
 ,001A000000eSnasIAC,Florida Poison Information Center - Jacksonville,655 W 8th st,Jacksonville,FL,32209,East Region,20105,6/30/2013,0,1
@@ -22599,16 +22599,16 @@ TG_ID,ACCOUNT_NUM,NAME,ADDRESS,CITY,STATE,ZIP,REGION,TERR,DATE,UNITS,CALLS
 ,001A000000eSnbFIAS,Carolina Poison Center,4400 Golf Acres Dr Ste B2,Charlotte,NC,28208,East Region,20103,6/30/2014,0,1
 ,001A000000eSnbFIAS,Carolina Poison Center,4400 Golf Acres Dr Ste B2,Charlotte,NC,28208,East Region,20103,11/30/2014,0,1
 ,001A000000eSnbNIAS,Central Texas Poison Center,2401 S 31st St,Temple,TX,76508,West Region,20204,8/31/2012,0,1
-,001A000000eSnbUIAS,SOUTHEAST TEXAS POISON CENTER,The University of Texas Medical Branch,Galveston,TX,(blank),(blank),(blank),1/31/2012,0,1
-,001A000000eSnbUIAS,SOUTHEAST TEXAS POISON CENTER,The University of Texas Medical Branch,Galveston,TX,(blank),(blank),(blank),7/31/2013,0,1
-,001A000000eSnbUIAS,SOUTHEAST TEXAS POISON CENTER,The University of Texas Medical Branch,Galveston,TX,(blank),(blank),(blank),8/31/2013,0,1
-,001A000000eSnbUIAS,SOUTHEAST TEXAS POISON CENTER,The University of Texas Medical Branch,Galveston,TX,(blank),(blank),(blank),12/31/2013,0,2
-,001A000000eSnbUIAS,SOUTHEAST TEXAS POISON CENTER,The University of Texas Medical Branch,Galveston,TX,(blank),(blank),(blank),1/31/2014,0,1
-,001A000000eSnbUIAS,SOUTHEAST TEXAS POISON CENTER,The University of Texas Medical Branch,Galveston,TX,(blank),(blank),(blank),9/30/2014,0,1
-,001A000000eSnbUIAS,SOUTHEAST TEXAS POISON CENTER,The University of Texas Medical Branch,Galveston,TX,(blank),(blank),(blank),12/31/2014,0,1
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
 ,001A000000eSnbVIAS,Texas Panhandle Poison Center,1501 S. Coulter,Amarillo,TX,79106,West Region,20203,6/30/2013,0,1
 ,001A000000eSnbVIAS,Texas Panhandle Poison Center,1501 S. Coulter,Amarillo,TX,79106,West Region,20203,7/31/2013,0,1
-,001A000000eSnQVIA0,Cincinnati Drug and Poison Information Center,Regional Poison Control System,Cincinnati,OH,(blank),(blank),(blank),8/31/2014,0,1
+,,,,,,,,,,,
 ,001A000000eSnQXIA0,Oklahoma Poison Center,940 NE 13th St,Oklahoma City,OK,73104,West Region,20201,6/30/2013,0,1
 ,001A000000eSnQXIA0,Oklahoma Poison Center,940 NE 13th St,Oklahoma City,OK,73104,West Region,20201,7/31/2013,0,2
 ,001A000000eSnQXIA0,Oklahoma Poison Center,940 NE 13th St,Oklahoma City,OK,73104,West Region,20201,9/30/2013,0,1
